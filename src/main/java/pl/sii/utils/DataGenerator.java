@@ -33,9 +33,9 @@ public class DataGenerator {
                 new Shop("Waldo's Magical Stuff", "22 Yellow St. Liverpool",
                         generateWaldosInventory(), generateWaldosOrders()),
                 new Shop("Bed, Bath & Beyond", "33 Stonks St. NY",
-                        generateBbbInventory(), generateEmporiumOrders()),
+                        generateBbbInventory(), generateBbbOrders()),
                 new Shop("Cool shop", "44 Cool St. NY",
-                        generateCoolInventory(), generateEmporiumOrders())
+                        generateCoolInventory(), generateCoolOrders())
         );
     }
 
@@ -53,6 +53,10 @@ public class DataGenerator {
         );
     }
 
+    private static Inventory generateWaldosInventory() {
+        return new Inventory(List.of(generalListOfItems.get(3), generalListOfItems.get(4), generalListOfItems.get(5)));
+    }
+
     private static List<Order> generateWaldosOrders() {
         return List.of(
                 new Order(UUID.randomUUID(), customerMap.get("Kathy"),
@@ -62,15 +66,33 @@ public class DataGenerator {
         );
     }
 
-    private static Inventory generateWaldosInventory() {
-        return new Inventory(List.of(generalListOfItems.get(3), generalListOfItems.get(4), generalListOfItems.get(5)));
-    }
-
     private static Inventory generateBbbInventory() {
         return new Inventory(List.of(generalListOfItems.get(6), generalListOfItems.get(7), generalListOfItems.get(8)));
     }
 
+    private static List<Order> generateBbbOrders() {
+        return List.of(
+                new Order(UUID.randomUUID(), customerMap.get("Adam"), List.of(
+                        new LineItem("Candle", 1)
+                )),
+                new Order(UUID.randomUUID(), customerMap.get("John"), List.of(
+                        new LineItem("Lighter", 5)
+                ))
+        );
+    }
+
     private static Inventory generateCoolInventory() {
         return new Inventory(List.of(generalListOfItems.get(9), generalListOfItems.get(10), generalListOfItems.get(11)));
+    }
+
+    private static List<Order> generateCoolOrders() {
+        return List.of(
+                new Order(UUID.randomUUID(), customerMap.get("Kathy"), List.of(
+                        new LineItem("Surprise box", 1)
+                )),
+                new Order(UUID.randomUUID(), customerMap.get("Adam"), List.of(
+                        new LineItem("Wheel", 5)
+                ))
+        );
     }
 }
