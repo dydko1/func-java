@@ -3,7 +3,6 @@ package pl.sii.streams.chaining;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pl.sii.streams.Setup;
-import pl.sii.utils.Item;
 import pl.sii.utils.LineItem;
 import pl.sii.utils.Order;
 import pl.sii.utils.Shop;
