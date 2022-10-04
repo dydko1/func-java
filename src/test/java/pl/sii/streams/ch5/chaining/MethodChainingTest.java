@@ -1,4 +1,4 @@
-package pl.sii.streams.chaining;
+package pl.sii.streams.ch5.chaining;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

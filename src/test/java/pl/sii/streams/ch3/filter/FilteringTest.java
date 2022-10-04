@@ -1,7 +1,6 @@
-package pl.sii.streams.filter;
+package pl.sii.streams.ch3.filter;
 
 import org.testng.Assert;
-import org.testng.SkipException;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pl.sii.streams.Setup;
@@ -11,7 +10,6 @@ import pl.sii.utils.Shop;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 

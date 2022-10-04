@@ -1,4 +1,4 @@
-package pl.sii.streams.construction;
+package pl.sii.streams.ch1.construction;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

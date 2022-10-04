@@ -1,4 +1,4 @@
-package pl.sii.streams.flatmap;
+package pl.sii.streams.ch4.flatmap;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
