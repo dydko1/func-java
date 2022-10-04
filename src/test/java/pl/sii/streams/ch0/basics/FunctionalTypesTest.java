@@ -1,13 +1,14 @@
 package pl.sii.streams.ch0.basics;
 
 import org.testng.annotations.Test;
+import pl.sii.streams.Setup;
 
 import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class FunctionalTypesTest {
+public class FunctionalTypesTest extends Setup {
     // Function
     // Predicate
     // Supplier
@@ -17,7 +18,9 @@ public class FunctionalTypesTest {
             return s.length();
         }
     };
+
     private Function<String, Integer> function2 = string -> string.length(); // ------> Syntactic sugar
+
     private Function<String, Integer> function3 = String::length;            // ------> Syntactic sugar
 
     @Test

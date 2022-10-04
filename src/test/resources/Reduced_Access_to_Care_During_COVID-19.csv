@@ -1,0 +1,1711 @@
+Round,Indicator,Group,Subgroup,Sample Size,Response,Percent,Standard Error,Suppression,Significant 1,Significant 2
+1,Reduced access to hearing care,Total,Total,6676,Total,,,,,
+1,Reduced access to hearing care,Total,Total,,For any reason,3.1,0.3,,,
+1,Reduced access to hearing care,Total,Total,,Due to pandemic,2.1,0.3,,,
+1,Reduced access to hearing care,Age group,18-44 years,2588,Total,,,,,
+1,Reduced access to hearing care,Age group,18-44 years,,For any reason,2.4,0.4,,,
+1,Reduced access to hearing care,Age group,18-44 years,,Due to pandemic,1.4,0.4,,,
+1,Reduced access to hearing care,Age group,45-64 years,2323,Total,,,,,
+1,Reduced access to hearing care,Age group,45-64 years,,For any reason,3.3,0.4,,,
+1,Reduced access to hearing care,Age group,45-64 years,,Due to pandemic,2.1,0.4,,,
+1,Reduced access to hearing care,Age group,65 years and over,1765,Total,,,,,
+1,Reduced access to hearing care,Age group,65 years and over,,For any reason,4.3,0.7,,,
+1,Reduced access to hearing care,Age group,65 years and over,,Due to pandemic,3.6,0.6,,,
+1,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,4430,Total,,,,,
+1,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,,For any reason,3,0.3,,,
+1,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,2,0.3,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,799,Total,,,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,,For any reason,3.2,0.7,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,2.2,0.7,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,520,Total,,,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,,For any reason,3,1,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,1.3,0.4,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Hispanic,927,Total,,,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Hispanic,,For any reason,3.6,0.7,,,
+1,Reduced access to hearing care,Race/Hispanic origin,Hispanic,,Due to pandemic,2.7,0.7,,,
+1,Reduced access to hearing care,Sex,Male,2926,Total,,,,,
+1,Reduced access to hearing care,Sex,Male,,For any reason,3,0.4,,,
+1,Reduced access to hearing care,Sex,Male,,Due to pandemic,2,0.3,,,
+1,Reduced access to hearing care,Sex,Female,3750,Total,,,,,
+1,Reduced access to hearing care,Sex,Female,,For any reason,3.3,0.4,,,
+1,Reduced access to hearing care,Sex,Female,,Due to pandemic,2.2,0.3,,,
+1,Reduced access to hearing care,Education,High school graduate or less,1271,Total,,,,,
+1,Reduced access to hearing care,Education,High school graduate or less,,For any reason,3.4,0.6,,,
+1,Reduced access to hearing care,Education,High school graduate or less,,Due to pandemic,2.2,0.5,,,
+1,Reduced access to hearing care,Education,Some college,2511,Total,,,,,
+1,Reduced access to hearing care,Education,Some college,,For any reason,3.2,0.4,,,
+1,Reduced access to hearing care,Education,Some college,,Due to pandemic,2,0.2,,,
+1,Reduced access to hearing care,Education,Bachelor's degree or above,2894,Total,,,,,
+1,Reduced access to hearing care,Education,Bachelor's degree or above,,For any reason,2.8,0.4,,,
+1,Reduced access to hearing care,Education,Bachelor's degree or above,,Due to pandemic,2,0.3,,,
+1,Reduced access to hearing care,Urbanization,Metropolitan,5956,Total,,,,,
+1,Reduced access to hearing care,Urbanization,Metropolitan,,For any reason,3.1,0.4,,,
+1,Reduced access to hearing care,Urbanization,Metropolitan,,Due to pandemic,2.1,0.3,,,
+1,Reduced access to hearing care,Urbanization,Non-Metropolitan,720,Total,,,,,
+1,Reduced access to hearing care,Urbanization,Non-Metropolitan,,For any reason,3.2,0.5,,,
+1,Reduced access to hearing care,Urbanization,Non-Metropolitan,,Due to pandemic,2.1,0.5,,,
+1,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,3995,Total,,,,,
+1,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,,For any reason,3.9,0.4,,,
+1,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,,Due to pandemic,2.9,0.3,,,
+1,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,757,Total,,,,,
+1,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,,For any reason,4.8,1,,,
+1,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,4.4,1,,,
+1,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,2370,Total,,,,,
+1,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,,For any reason,4.3,0.5,,,
+1,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,3.1,0.4,,,
+1,Reduced access to hearing care,Chronic conditions,Current asthma,685,Total,,,,,
+1,Reduced access to hearing care,Chronic conditions,Current asthma,,For any reason,2.6,0.6,,,
+1,Reduced access to hearing care,Chronic conditions,Current asthma,,Due to pandemic,1.8,0.4,,,
+2,Reduced access to hearing care,Total,Total,5900,Total,,,,,
+2,Reduced access to hearing care,Total,Total,,For any reason,3.4,0.4,,0,
+2,Reduced access to hearing care,Total,Total,,Due to pandemic,1.9,0.2,,0,
+2,Reduced access to hearing care,Age group,18-44 years,2195,Total,,,,,
+2,Reduced access to hearing care,Age group,18-44 years,,For any reason,3.2,0.5,,0,
+2,Reduced access to hearing care,Age group,18-44 years,,Due to pandemic,1.6,0.3,,0,
+2,Reduced access to hearing care,Age group,45-64 years,2054,Total,,,,,
+2,Reduced access to hearing care,Age group,45-64 years,,For any reason,3.3,0.7,,0,
+2,Reduced access to hearing care,Age group,45-64 years,,Due to pandemic,1.8,0.5,,0,
+2,Reduced access to hearing care,Age group,65 years and over,1651,Total,,,,,
+2,Reduced access to hearing care,Age group,65 years and over,,For any reason,3.7,0.6,,0,
+2,Reduced access to hearing care,Age group,65 years and over,,Due to pandemic,2.8,0.5,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,4029,Total,,,,,
+2,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,,For any reason,2.9,0.4,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,1.8,0.3,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,675,Total,,,,,
+2,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,,For any reason,4.2,0.8,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,1.7,0.4,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,456,Total,,,,,
+2,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,,For any reason,6.3,1.6,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,4.2,1.1,,1,
+2,Reduced access to hearing care,Race/Hispanic origin,Hispanic,740,Total,,,,,
+2,Reduced access to hearing care,Race/Hispanic origin,Hispanic,,For any reason,3.3,0.9,,0,
+2,Reduced access to hearing care,Race/Hispanic origin,Hispanic,,Due to pandemic,1.6,0.8,,0,
+2,Reduced access to hearing care,Sex,Male,2554,Total,,,,,
+2,Reduced access to hearing care,Sex,Male,,For any reason,3.8,0.7,,0,
+2,Reduced access to hearing care,Sex,Male,,Due to pandemic,2.6,0.5,,0,
+2,Reduced access to hearing care,Sex,Female,3346,Total,,,,,
+2,Reduced access to hearing care,Sex,Female,,For any reason,3,0.5,,0,
+2,Reduced access to hearing care,Sex,Female,,Due to pandemic,1.3,0.2,,1,
+2,Reduced access to hearing care,Education,High school graduate or less,1086,Total,,,,,
+2,Reduced access to hearing care,Education,High school graduate or less,,For any reason,4.2,0.7,,0,
+2,Reduced access to hearing care,Education,High school graduate or less,,Due to pandemic,2,0.5,,0,
+2,Reduced access to hearing care,Education,Some college,2205,Total,,,,,
+2,Reduced access to hearing care,Education,Some college,,For any reason,3.6,0.5,,0,
+2,Reduced access to hearing care,Education,Some college,,Due to pandemic,2.2,0.4,,0,
+2,Reduced access to hearing care,Education,Bachelor's degree or above,2609,Total,,,,,
+2,Reduced access to hearing care,Education,Bachelor's degree or above,,For any reason,2.3,0.3,,0,
+2,Reduced access to hearing care,Education,Bachelor's degree or above,,Due to pandemic,1.5,0.3,,0,
+2,Reduced access to hearing care,Urbanization,Metropolitan,5248,Total,,,,,
+2,Reduced access to hearing care,Urbanization,Metropolitan,,For any reason,3.3,0.4,,0,
+2,Reduced access to hearing care,Urbanization,Metropolitan,,Due to pandemic,2,0.2,,0,
+2,Reduced access to hearing care,Urbanization,Non-Metropolitan,652,Total,,,,,
+2,Reduced access to hearing care,Urbanization,Non-Metropolitan,,For any reason,,,*,,
+2,Reduced access to hearing care,Urbanization,Non-Metropolitan,,Due to pandemic,1.7,0.7,,0,
+2,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,3597,Total,,,,,
+2,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,,For any reason,4.4,0.6,,0,
+2,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,,Due to pandemic,2.9,0.5,,0,
+2,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,682,Total,,,,,
+2,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,,For any reason,8.1,1.8,,0,
+2,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,,,*,,
+2,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,2157,Total,,,,,
+2,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,,For any reason,5,0.9,,0,
+2,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,2.8,0.7,,0,
+2,Reduced access to hearing care,Chronic conditions,Current asthma,616,Total,,,,,
+2,Reduced access to hearing care,Chronic conditions,Current asthma,,For any reason,,,*,,
+2,Reduced access to hearing care,Chronic conditions,Current asthma,,Due to pandemic,2.6,1,,0,
+3,Reduced access to hearing care,Total,Total,5396,Total,,,,,
+3,Reduced access to hearing care,Total,Total,,For any reason,2.9,0.3,,0,0
+3,Reduced access to hearing care,Total,Total,,Due to pandemic,0.7,0.1,,1,1
+3,Reduced access to hearing care,Age group,18-44 years,1962,Total,,,,,
+3,Reduced access to hearing care,Age group,18-44 years,,For any reason,3.8,0.6,,0,0
+3,Reduced access to hearing care,Age group,18-44 years,,Due to pandemic,0.9,0.2,,0,0
+3,Reduced access to hearing care,Age group,45-64 years,1714,Total,,,,,
+3,Reduced access to hearing care,Age group,45-64 years,,For any reason,2.6,0.5,,0,0
+3,Reduced access to hearing care,Age group,45-64 years,,Due to pandemic,0.6,0.2,,1,1
+3,Reduced access to hearing care,Age group,65 years and over,1720,Total,,,,,
+3,Reduced access to hearing care,Age group,65 years and over,,For any reason,1.7,0.3,,1,1
+3,Reduced access to hearing care,Age group,65 years and over,,Due to pandemic,0.6,0.2,,1,1
+3,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,3438,Total,,,,,
+3,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,,For any reason,2.1,0.3,,0,0
+3,Reduced access to hearing care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,0.4,0.1,,1,1
+3,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,754,Total,,,,,
+3,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,,For any reason,4.7,0.8,,0,0
+3,Reduced access to hearing care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,1.5,0.5,,0,0
+3,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,388,Total,,,,,
+3,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,,For any reason,2,0.7,,0,1
+3,Reduced access to hearing care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,1,0.6,,0,1
+3,Reduced access to hearing care,Race/Hispanic origin,Hispanic,816,Total,,,,,
+3,Reduced access to hearing care,Race/Hispanic origin,Hispanic,,For any reason,5.3,1.1,,0,0
+3,Reduced access to hearing care,Race/Hispanic origin,Hispanic,,Due to pandemic,1.2,0.5,,1,0
+3,Reduced access to hearing care,Sex,Male,2443,Total,,,,,
+3,Reduced access to hearing care,Sex,Male,,For any reason,2.8,0.4,,0,0
+3,Reduced access to hearing care,Sex,Male,,Due to pandemic,0.6,0.1,,1,1
+3,Reduced access to hearing care,Sex,Female,2953,Total,,,,,
+3,Reduced access to hearing care,Sex,Female,,For any reason,3,0.5,,0,0
+3,Reduced access to hearing care,Sex,Female,,Due to pandemic,0.9,0.2,,1,0
+3,Reduced access to hearing care,Education,High school graduate or less,1266,Total,,,,,
+3,Reduced access to hearing care,Education,High school graduate or less,,For any reason,3.2,0.7,,0,0
+3,Reduced access to hearing care,Education,High school graduate or less,,Due to pandemic,0.5,0.2,,1,1
+3,Reduced access to hearing care,Education,Some college,2553,Total,,,,,
+3,Reduced access to hearing care,Education,Some college,,For any reason,3.3,0.6,,0,0
+3,Reduced access to hearing care,Education,Some college,,Due to pandemic,1.1,0.3,,1,1
+3,Reduced access to hearing care,Education,Bachelor's degree or above,1577,Total,,,,,
+3,Reduced access to hearing care,Education,Bachelor's degree or above,,For any reason,2.2,0.5,,0,0
+3,Reduced access to hearing care,Education,Bachelor's degree or above,,Due to pandemic,0.7,0.2,,1,1
+3,Reduced access to hearing care,Urbanization,Metropolitan,4566,Total,,,,,
+3,Reduced access to hearing care,Urbanization,Metropolitan,,For any reason,3,0.4,,0,0
+3,Reduced access to hearing care,Urbanization,Metropolitan,,Due to pandemic,0.8,0.2,,1,1
+3,Reduced access to hearing care,Urbanization,Non-Metropolitan,830,Total,,,,,
+3,Reduced access to hearing care,Urbanization,Non-Metropolitan,,For any reason,2.4,0.7,,0,
+3,Reduced access to hearing care,Urbanization,Non-Metropolitan,,Due to pandemic,0.3,0.3,,1,0
+3,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,3374,Total,,,,,
+3,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,,For any reason,3.3,0.4,,0,0
+3,Reduced access to hearing care,Chronic conditions,One or more chronic conditions,,Due to pandemic,0.9,0.2,,1,1
+3,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,731,Total,,,,,
+3,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,,For any reason,5.4,1.3,,0,0
+3,Reduced access to hearing care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,1.3,0.6,,1,
+3,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,2076,Total,,,,,
+3,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,,For any reason,3.6,0.6,,0,0
+3,Reduced access to hearing care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,1,0.3,,1,1
+3,Reduced access to hearing care,Chronic conditions,Current asthma,560,Total,,,,,
+3,Reduced access to hearing care,Chronic conditions,Current asthma,,For any reason,,,*,,
+3,Reduced access to hearing care,Chronic conditions,Current asthma,,Due to pandemic,1.7,0.7,,0,0
+1,Reduced access to one or more types of care,Total,Total,6799,Total,,,,,
+1,Reduced access to one or more types of care,Total,Total,,For any reason,48.4,1,,,
+1,Reduced access to one or more types of care,Total,Total,,Due to pandemic,38.7,1.1,,,
+1,Reduced access to one or more types of care,Age group,18-44 years,2608,Total,,,,,
+1,Reduced access to one or more types of care,Age group,18-44 years,,For any reason,46.3,1.5,,,
+1,Reduced access to one or more types of care,Age group,18-44 years,,Due to pandemic,36.5,1.4,,,
+1,Reduced access to one or more types of care,Age group,45-64 years,2386,Total,,,,,
+1,Reduced access to one or more types of care,Age group,45-64 years,,For any reason,51.5,1.4,,,
+1,Reduced access to one or more types of care,Age group,45-64 years,,Due to pandemic,41.8,1.5,,,
+1,Reduced access to one or more types of care,Age group,65 years and over,1805,Total,,,,,
+1,Reduced access to one or more types of care,Age group,65 years and over,,For any reason,48.1,1.6,,,
+1,Reduced access to one or more types of care,Age group,65 years and over,,Due to pandemic,38.7,1.8,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,4514,Total,,,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,,For any reason,49.3,1.3,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,41.4,1.3,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,813,Total,,,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,,For any reason,47.7,2.5,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,29.9,2.4,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,529,Total,,,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,,For any reason,44,3.4,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,35.2,3.3,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,943,Total,,,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,,For any reason,47.6,2.6,,,
+1,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,,Due to pandemic,36.5,2.7,,,
+1,Reduced access to one or more types of care,Sex,Male,2969,Total,,,,,
+1,Reduced access to one or more types of care,Sex,Male,,For any reason,44.9,1.7,,,
+1,Reduced access to one or more types of care,Sex,Male,,Due to pandemic,34.9,1.7,,,
+1,Reduced access to one or more types of care,Sex,Female,3830,Total,,,,,
+1,Reduced access to one or more types of care,Sex,Female,,For any reason,51.7,1.2,,,
+1,Reduced access to one or more types of care,Sex,Female,,Due to pandemic,42.3,1.2,,,
+1,Reduced access to one or more types of care,Education,High school graduate or less,1296,Total,,,,,
+1,Reduced access to one or more types of care,Education,High school graduate or less,,For any reason,43.7,1.7,,,
+1,Reduced access to one or more types of care,Education,High school graduate or less,,Due to pandemic,32.4,1.7,,,
+1,Reduced access to one or more types of care,Education,Some college,2556,Total,,,,,
+1,Reduced access to one or more types of care,Education,Some college,,For any reason,49,1.1,,,
+1,Reduced access to one or more types of care,Education,Some college,,Due to pandemic,38.1,1.1,,,
+1,Reduced access to one or more types of care,Education,Bachelor's degree or above,2947,Total,,,,,
+1,Reduced access to one or more types of care,Education,Bachelor's degree or above,,For any reason,52.9,1.4,,,
+1,Reduced access to one or more types of care,Education,Bachelor's degree or above,,Due to pandemic,46,1.5,,,
+1,Reduced access to one or more types of care,Urbanization,Metropolitan,6062,Total,,,,,
+1,Reduced access to one or more types of care,Urbanization,Metropolitan,,For any reason,48.3,0.9,,,
+1,Reduced access to one or more types of care,Urbanization,Metropolitan,,Due to pandemic,38.7,1,,,
+1,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,737,Total,,,,,
+1,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,,For any reason,48.8,4.5,,,
+1,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,,Due to pandemic,38.5,4.7,,,
+1,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,4090,Total,,,,,
+1,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,,For any reason,53.3,1.2,,,
+1,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,,Due to pandemic,42.8,1.2,,,
+1,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,769,Total,,,,,
+1,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,,For any reason,56.8,3,,,
+1,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,43.4,2.8,,,
+1,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,2428,Total,,,,,
+1,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,,For any reason,54,1.7,,,
+1,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,42.6,1.7,,,
+1,Reduced access to one or more types of care,Chronic conditions,Current asthma,698,Total,,,,,
+1,Reduced access to one or more types of care,Chronic conditions,Current asthma,,For any reason,59.3,3.4,,,
+1,Reduced access to one or more types of care,Chronic conditions,Current asthma,,Due to pandemic,46.9,3.2,,,
+2,Reduced access to one or more types of care,Total,Total,5981,Total,,,,,
+2,Reduced access to one or more types of care,Total,Total,,For any reason,38.1,0.9,,1,
+2,Reduced access to one or more types of care,Total,Total,,Due to pandemic,28.2,0.8,,1,
+2,Reduced access to one or more types of care,Age group,18-44 years,2215,Total,,,,,
+2,Reduced access to one or more types of care,Age group,18-44 years,,For any reason,39.8,1.7,,1,
+2,Reduced access to one or more types of care,Age group,18-44 years,,Due to pandemic,28.1,1.2,,1,
+2,Reduced access to one or more types of care,Age group,45-64 years,2084,Total,,,,,
+2,Reduced access to one or more types of care,Age group,45-64 years,,For any reason,37.2,1.4,,1,
+2,Reduced access to one or more types of care,Age group,45-64 years,,Due to pandemic,29.5,1.3,,1,
+2,Reduced access to one or more types of care,Age group,65 years and over,1682,Total,,,,,
+2,Reduced access to one or more types of care,Age group,65 years and over,,For any reason,35.8,1.7,,1,
+2,Reduced access to one or more types of care,Age group,65 years and over,,Due to pandemic,26.1,1.6,,1,
+2,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,4078,Total,,,,,
+2,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,,For any reason,36.1,1.1,,1,
+2,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,27.3,0.9,,1,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,691,Total,,,,,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,,For any reason,40.8,2.9,,1,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,27.3,2.4,,0,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,462,Total,,,,,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,,For any reason,46.1,4,,0,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,34.9,3.6,,0,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,750,Total,,,,,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,,For any reason,40.4,2.7,,1,
+2,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,,Due to pandemic,29.1,2.3,,1,
+2,Reduced access to one or more types of care,Sex,Male,2592,Total,,,,,
+2,Reduced access to one or more types of care,Sex,Male,,For any reason,36.4,1.4,,1,
+2,Reduced access to one or more types of care,Sex,Male,,Due to pandemic,26.2,1,,1,
+2,Reduced access to one or more types of care,Sex,Female,3389,Total,,,,,
+2,Reduced access to one or more types of care,Sex,Female,,For any reason,39.8,1.4,,1,
+2,Reduced access to one or more types of care,Sex,Female,,Due to pandemic,30,1.1,,1,
+2,Reduced access to one or more types of care,Education,High school graduate or less,1104,Total,,,,,
+2,Reduced access to one or more types of care,Education,High school graduate or less,,For any reason,38,2.1,,1,
+2,Reduced access to one or more types of care,Education,High school graduate or less,,Due to pandemic,23,1.6,,1,
+2,Reduced access to one or more types of care,Education,Some college,2229,Total,,,,,
+2,Reduced access to one or more types of care,Education,Some college,,For any reason,39.1,1.5,,1,
+2,Reduced access to one or more types of care,Education,Some college,,Due to pandemic,30.8,1.4,,1,
+2,Reduced access to one or more types of care,Education,Bachelor's degree or above,2648,Total,,,,,
+2,Reduced access to one or more types of care,Education,Bachelor's degree or above,,For any reason,37.4,1.2,,1,
+2,Reduced access to one or more types of care,Education,Bachelor's degree or above,,Due to pandemic,31.2,1.1,,1,
+2,Reduced access to one or more types of care,Urbanization,Metropolitan,5322,Total,,,,,
+2,Reduced access to one or more types of care,Urbanization,Metropolitan,,For any reason,38.5,1,,1,
+2,Reduced access to one or more types of care,Urbanization,Metropolitan,,Due to pandemic,28.6,0.8,,1,
+2,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,659,Total,,,,,
+2,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,,For any reason,34.9,2,,1,
+2,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,,Due to pandemic,24.5,2,,1,
+2,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,3654,Total,,,,,
+2,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,,For any reason,41.8,1,,1,
+2,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,,Due to pandemic,31.7,0.9,,1,
+2,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,691,Total,,,,,
+2,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,,For any reason,46.1,2.4,,1,
+2,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,34.6,2.1,,1,
+2,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,2192,Total,,,,,
+2,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,,For any reason,41.4,1.4,,1,
+2,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,30.8,1.4,,1,
+2,Reduced access to one or more types of care,Chronic conditions,Current asthma,619,Total,,,,,
+2,Reduced access to one or more types of care,Chronic conditions,Current asthma,,For any reason,49.8,3.2,,1,
+2,Reduced access to one or more types of care,Chronic conditions,Current asthma,,Due to pandemic,37.6,3.2,,1,
+3,Reduced access to one or more types of care,Total,Total,5456,Total,,,,,
+3,Reduced access to one or more types of care,Total,Total,,For any reason,26.9,0.8,,1,1
+3,Reduced access to one or more types of care,Total,Total,,Due to pandemic,12.7,0.7,,1,1
+3,Reduced access to one or more types of care,Age group,18-44 years,1974,Total,,,,,
+1,Reduced access to urgent care,Urbanization,Metropolitan,,Due to pandemic,1.4,0.2,,,
+3,Reduced access to one or more types of care,Age group,18-44 years,,For any reason,30.8,1.4,,1,1
+3,Reduced access to one or more types of care,Age group,18-44 years,,Due to pandemic,15.6,1.1,,1,1
+3,Reduced access to one or more types of care,Age group,45-64 years,1738,Total,,,,,
+3,Reduced access to one or more types of care,Age group,45-64 years,,For any reason,24.9,1.4,,1,1
+3,Reduced access to one or more types of care,Age group,45-64 years,,Due to pandemic,11.1,1,,1,1
+3,Reduced access to one or more types of care,Age group,65 years and over,1744,Total,,,,,
+3,Reduced access to one or more types of care,Age group,65 years and over,,For any reason,21.6,1.1,,1,1
+3,Reduced access to one or more types of care,Age group,65 years and over,,Due to pandemic,9.2,1,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,3479,Total,,,,,
+3,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,,For any reason,23.4,1.2,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,10.7,0.8,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,763,Total,,,,,
+3,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,,For any reason,37,2.4,,1,0
+3,Reduced access to one or more types of care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,17,2.4,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,393,Total,,,,,
+3,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,,For any reason,27.3,3.1,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,15,2.6,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,821,Total,,,,,
+3,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,,For any reason,32.9,2.2,,1,1
+3,Reduced access to one or more types of care,Race/Hispanic origin,Hispanic,,Due to pandemic,16.1,1.7,,1,1
+3,Reduced access to one or more types of care,Sex,Male,2463,Total,,,,,
+3,Reduced access to one or more types of care,Sex,Male,,For any reason,23.9,1.2,,1,1
+3,Reduced access to one or more types of care,Sex,Male,,Due to pandemic,11.2,0.8,,1,1
+3,Reduced access to one or more types of care,Sex,Female,2993,Total,,,,,
+3,Reduced access to one or more types of care,Sex,Female,,For any reason,29.7,1.3,,1,1
+3,Reduced access to one or more types of care,Sex,Female,,Due to pandemic,14.2,1.1,,1,1
+3,Reduced access to one or more types of care,Education,High school graduate or less,1280,Total,,,,,
+3,Reduced access to one or more types of care,Education,High school graduate or less,,For any reason,28,1.7,,1,1
+3,Reduced access to one or more types of care,Education,High school graduate or less,,Due to pandemic,12,1.2,,1,1
+3,Reduced access to one or more types of care,Education,Some college,2582,Total,,,,,
+3,Reduced access to one or more types of care,Education,Some college,,For any reason,28,1.4,,1,1
+3,Reduced access to one or more types of care,Education,Some college,,Due to pandemic,13.8,1.2,,1,1
+3,Reduced access to one or more types of care,Education,Bachelor's degree or above,1594,Total,,,,,
+3,Reduced access to one or more types of care,Education,Bachelor's degree or above,,For any reason,24.2,1.3,,1,1
+3,Reduced access to one or more types of care,Education,Bachelor's degree or above,,Due to pandemic,12.5,1.1,,1,1
+3,Reduced access to one or more types of care,Urbanization,Metropolitan,4622,Total,,,,,
+3,Reduced access to one or more types of care,Urbanization,Metropolitan,,For any reason,27.3,0.8,,1,1
+3,Reduced access to one or more types of care,Urbanization,Metropolitan,,Due to pandemic,13.2,0.7,,1,1
+3,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,834,Total,,,,,
+3,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,,For any reason,24.4,1.9,,1,1
+3,Reduced access to one or more types of care,Urbanization,Non-Metropolitan,,Due to pandemic,9.9,1.5,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,3419,Total,,,,,
+3,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,,For any reason,28.3,1.2,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,One or more chronic conditions,,Due to pandemic,13.4,0.8,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,741,Total,,,,,
+3,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,,For any reason,33.3,2.4,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,15.9,2,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,2105,Total,,,,,
+3,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,,For any reason,27.8,1.6,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,13.4,1,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,Current asthma,564,Total,,,,,
+3,Reduced access to one or more types of care,Chronic conditions,Current asthma,,For any reason,39.9,2.7,,1,1
+3,Reduced access to one or more types of care,Chronic conditions,Current asthma,,Due to pandemic,20.8,2.1,,1,1
+1,Reduced access to urgent care,Total,Total,6691,Total,,,,,
+1,Reduced access to urgent care,Total,Total,,For any reason,3.5,0.3,,,
+1,Reduced access to urgent care,Total,Total,,Due to pandemic,1.5,0.2,,,
+1,Reduced access to urgent care,Age group,18-44 years,2591,Total,,,,,
+1,Reduced access to urgent care,Age group,18-44 years,,For any reason,4.3,0.6,,,
+1,Reduced access to urgent care,Age group,18-44 years,,Due to pandemic,2.1,0.4,,,
+1,Reduced access to urgent care,Age group,45-64 years,2332,Total,,,,,
+1,Reduced access to urgent care,Age group,45-64 years,,For any reason,3.4,0.4,,,
+1,Reduced access to urgent care,Age group,45-64 years,,Due to pandemic,1.1,0.2,,,
+1,Reduced access to urgent care,Age group,65 years and over,1768,Total,,,,,
+1,Reduced access to urgent care,Age group,65 years and over,,For any reason,1.9,0.4,,,
+1,Reduced access to urgent care,Age group,65 years and over,,Due to pandemic,0.8,0.3,,,
+1,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,4443,Total,,,,,
+1,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,,For any reason,3.1,0.3,,,
+1,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,1.4,0.3,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,800,Total,,,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,,For any reason,5.2,1,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,2.3,0.5,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,521,Total,,,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,,For any reason,2.9,0.8,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,0.8,0.4,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Hispanic,927,Total,,,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Hispanic,,For any reason,4.1,0.8,,,
+1,Reduced access to urgent care,Race/Hispanic origin,Hispanic,,Due to pandemic,1.3,0.3,,,
+1,Reduced access to urgent care,Sex,Male,2922,Total,,,,,
+1,Reduced access to urgent care,Sex,Male,,For any reason,2.9,0.4,,,
+1,Reduced access to urgent care,Sex,Male,,Due to pandemic,1.2,0.3,,,
+1,Reduced access to urgent care,Sex,Female,3769,Total,,,,,
+1,Reduced access to urgent care,Sex,Female,,For any reason,4.1,0.4,,,
+1,Reduced access to urgent care,Sex,Female,,Due to pandemic,1.7,0.3,,,
+1,Reduced access to urgent care,Education,High school graduate or less,1280,Total,,,,,
+1,Reduced access to urgent care,Education,High school graduate or less,,For any reason,4.2,0.8,,,
+1,Reduced access to urgent care,Education,High school graduate or less,,Due to pandemic,2,0.5,,,
+1,Reduced access to urgent care,Education,Some college,2517,Total,,,,,
+1,Reduced access to urgent care,Education,Some college,,For any reason,4.2,0.5,,,
+1,Reduced access to urgent care,Education,Some college,,Due to pandemic,1.6,0.2,,,
+1,Reduced access to urgent care,Education,Bachelor's degree or above,2894,Total,,,,,
+1,Reduced access to urgent care,Education,Bachelor's degree or above,,For any reason,2.1,0.3,,,
+1,Reduced access to urgent care,Education,Bachelor's degree or above,,Due to pandemic,0.9,0.2,,,
+1,Reduced access to urgent care,Urbanization,Metropolitan,5966,Total,,,,,
+1,Reduced access to urgent care,Urbanization,Metropolitan,,For any reason,3.3,0.3,,,
+1,Reduced access to urgent care,Urbanization,Non-Metropolitan,725,Total,,,,,
+1,Reduced access to urgent care,Urbanization,Non-Metropolitan,,For any reason,5.2,1.1,,,
+1,Reduced access to urgent care,Urbanization,Non-Metropolitan,,Due to pandemic,2.2,0.9,,,
+1,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,4006,Total,,,,,
+1,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,,For any reason,4.2,0.4,,,
+1,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,,Due to pandemic,1.7,0.3,,,
+1,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,757,Total,,,,,
+1,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,,For any reason,8.4,1.5,,,
+1,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,3.5,1.1,,,
+1,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,2376,Total,,,,,
+1,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,,For any reason,4.2,0.5,,,
+1,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,1.6,0.4,,,
+1,Reduced access to urgent care,Chronic conditions,Current asthma,687,Total,,,,,
+1,Reduced access to urgent care,Chronic conditions,Current asthma,,For any reason,8.3,1.7,,,
+1,Reduced access to urgent care,Chronic conditions,Current asthma,,Due to pandemic,,,*,,
+2,Reduced access to urgent care,Total,Total,5905,Total,,,,,
+2,Reduced access to urgent care,Total,Total,,For any reason,3.4,0.3,,0,
+2,Reduced access to urgent care,Total,Total,,Due to pandemic,1.3,0.2,,0,
+2,Reduced access to urgent care,Age group,18-44 years,2204,Total,,,,,
+2,Reduced access to urgent care,Age group,18-44 years,,For any reason,4.3,0.5,,0,
+2,Reduced access to urgent care,Age group,18-44 years,,Due to pandemic,2,0.5,,0,
+2,Reduced access to urgent care,Age group,45-64 years,2056,Total,,,,,
+2,Reduced access to urgent care,Age group,45-64 years,,For any reason,3.1,0.6,,0,
+2,Reduced access to urgent care,Age group,45-64 years,,Due to pandemic,0.7,0.2,,0,
+2,Reduced access to urgent care,Age group,65 years and over,1645,Total,,,,,
+2,Reduced access to urgent care,Age group,65 years and over,,For any reason,1.7,0.3,,0,
+2,Reduced access to urgent care,Age group,65 years and over,,Due to pandemic,0.6,0.2,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,4027,Total,,,,,
+2,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,,For any reason,2.3,0.3,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,0.7,0.2,,1,
+2,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,679,Total,,,,,
+2,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,,For any reason,5.2,0.8,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,2.3,0.7,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,457,Total,,,,,
+2,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,,For any reason,4.8,1,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,1.9,0.5,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,Hispanic,742,Total,,,,,
+2,Reduced access to urgent care,Race/Hispanic origin,Hispanic,,For any reason,5.3,1.2,,0,
+2,Reduced access to urgent care,Race/Hispanic origin,Hispanic,,Due to pandemic,2.3,0.9,,0,
+2,Reduced access to urgent care,Sex,Male,2560,Total,,,,,
+2,Reduced access to urgent care,Sex,Male,,For any reason,3.6,0.6,,0,
+2,Reduced access to urgent care,Sex,Male,,Due to pandemic,1.4,0.4,,0,
+2,Reduced access to urgent care,Sex,Female,3345,Total,,,,,
+2,Reduced access to urgent care,Sex,Female,,For any reason,3.1,0.4,,0,
+2,Reduced access to urgent care,Sex,Female,,Due to pandemic,1.1,0.2,,0,
+2,Reduced access to urgent care,Education,High school graduate or less,1089,Total,,,,,
+2,Reduced access to urgent care,Education,High school graduate or less,,For any reason,4.1,0.7,,0,
+2,Reduced access to urgent care,Education,High school graduate or less,,Due to pandemic,1,0.4,,0,
+2,Reduced access to urgent care,Education,Some college,2204,Total,,,,,
+2,Reduced access to urgent care,Education,Some college,,For any reason,3.9,0.6,,0,
+2,Reduced access to urgent care,Education,Some college,,Due to pandemic,2.1,0.5,,0,
+2,Reduced access to urgent care,Education,Bachelor's degree or above,2612,Total,,,,,
+2,Reduced access to urgent care,Education,Bachelor's degree or above,,For any reason,2,0.3,,0,
+2,Reduced access to urgent care,Education,Bachelor's degree or above,,Due to pandemic,0.7,0.2,,0,
+2,Reduced access to urgent care,Urbanization,Metropolitan,5253,Total,,,,,
+2,Reduced access to urgent care,Urbanization,Metropolitan,,For any reason,3.4,0.4,,0,
+2,Reduced access to urgent care,Urbanization,Metropolitan,,Due to pandemic,1.3,0.2,,0,
+2,Reduced access to urgent care,Urbanization,Non-Metropolitan,652,Total,,,,,
+2,Reduced access to urgent care,Urbanization,Non-Metropolitan,,For any reason,3.3,0.6,,0,
+2,Reduced access to urgent care,Urbanization,Non-Metropolitan,,Due to pandemic,1.3,0.8,,0,
+2,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,3598,Total,,,,,
+2,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,,For any reason,3.4,0.5,,0,
+2,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,,Due to pandemic,1.4,0.3,,0,
+2,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,678,Total,,,,,
+2,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,,For any reason,,,*,,
+2,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,1.9,0.8,,0,
+2,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,2153,Total,,,,,
+2,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,,For any reason,3.4,0.7,,0,
+2,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,1,0.3,,0,
+2,Reduced access to urgent care,Chronic conditions,Current asthma,615,Total,,,,,
+2,Reduced access to urgent care,Chronic conditions,Current asthma,,For any reason,6,1.2,,0,
+2,Reduced access to urgent care,Chronic conditions,Current asthma,,Due to pandemic,2.7,0.8,,,
+3,Reduced access to urgent care,Total,Total,5403,Total,,,,,
+3,Reduced access to urgent care,Total,Total,,For any reason,4.4,0.4,,1,1
+3,Reduced access to urgent care,Total,Total,,Due to pandemic,1.2,0.2,,0,0
+3,Reduced access to urgent care,Age group,18-44 years,1967,Total,,,,,
+3,Reduced access to urgent care,Age group,18-44 years,,For any reason,5.5,0.6,,0,0
+3,Reduced access to urgent care,Age group,18-44 years,,Due to pandemic,1.4,0.3,,0,0
+3,Reduced access to urgent care,Age group,45-64 years,1716,Total,,,,,
+3,Reduced access to urgent care,Age group,45-64 years,,For any reason,4.4,0.6,,0,0
+3,Reduced access to urgent care,Age group,45-64 years,,Due to pandemic,1.3,0.4,,0,0
+3,Reduced access to urgent care,Age group,65 years and over,1720,Total,,,,,
+3,Reduced access to urgent care,Age group,65 years and over,,For any reason,2,0.5,,0,0
+3,Reduced access to urgent care,Age group,65 years and over,,Due to pandemic,0.2,0.1,,0,0
+3,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,3442,Total,,,,,
+3,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,,For any reason,3.6,0.4,,0,1
+3,Reduced access to urgent care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,0.8,0.2,,0,0
+3,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,758,Total,,,,,
+3,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,,For any reason,8.4,1.4,,1,1
+3,Reduced access to urgent care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,2.2,0.8,,0,0
+3,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,390,Total,,,,,
+3,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,,For any reason,,,*,,
+3,Reduced access to urgent care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,1.3,0.6,,0,0
+3,Reduced access to urgent care,Race/Hispanic origin,Hispanic,813,Total,,,,,
+3,Reduced access to urgent care,Race/Hispanic origin,Hispanic,,For any reason,4.9,0.9,,0,0
+3,Reduced access to urgent care,Race/Hispanic origin,Hispanic,,Due to pandemic,1.5,0.5,,0,0
+3,Reduced access to urgent care,Sex,Male,2442,Total,,,,,
+3,Reduced access to urgent care,Sex,Male,,For any reason,3.9,0.5,,0,0
+3,Reduced access to urgent care,Sex,Male,,Due to pandemic,0.7,0.2,,0,0
+3,Reduced access to urgent care,Sex,Female,2961,Total,,,,,
+3,Reduced access to urgent care,Sex,Female,,For any reason,4.9,0.5,,0,1
+3,Reduced access to urgent care,Sex,Female,,Due to pandemic,1.6,0.3,,0,0
+3,Reduced access to urgent care,Education,High school graduate or less,1270,Total,,,,,
+3,Reduced access to urgent care,Education,High school graduate or less,,For any reason,4.3,0.7,,0,0
+3,Reduced access to urgent care,Education,High school graduate or less,,Due to pandemic,0.7,0.3,,1,0
+3,Reduced access to urgent care,Education,Some college,2554,Total,,,,,
+3,Reduced access to urgent care,Education,Some college,,For any reason,5.7,0.6,,0,1
+3,Reduced access to urgent care,Education,Some college,,Due to pandemic,2,0.4,,0,0
+3,Reduced access to urgent care,Education,Bachelor's degree or above,1579,Total,,,,,
+3,Reduced access to urgent care,Education,Bachelor's degree or above,,For any reason,3.2,0.5,,1,1
+3,Reduced access to urgent care,Education,Bachelor's degree or above,,Due to pandemic,0.8,0.3,,0,0
+3,Reduced access to urgent care,Urbanization,Metropolitan,4580,Total,,,,,
+3,Reduced access to urgent care,Urbanization,Metropolitan,,For any reason,4.3,0.4,,1,0
+3,Reduced access to urgent care,Urbanization,Metropolitan,,Due to pandemic,1.2,0.2,,0,0
+3,Reduced access to urgent care,Urbanization,Non-Metropolitan,823,Total,,,,,
+3,Reduced access to urgent care,Urbanization,Non-Metropolitan,,For any reason,5.1,1.1,,0,0
+3,Reduced access to urgent care,Urbanization,Non-Metropolitan,,Due to pandemic,1.2,0.5,,0,0
+3,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,3379,Total,,,,,
+3,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,,For any reason,4.8,0.6,,0,0
+3,Reduced access to urgent care,Chronic conditions,One or more chronic conditions,,Due to pandemic,1.3,0.3,,0,0
+3,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,735,Total,,,,,
+3,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,,For any reason,6.2,1.5,,0,
+3,Reduced access to urgent care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,1.5,0.6,,0,0
+3,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,2081,Total,,,,,
+3,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,,For any reason,4.9,0.7,,0,0
+3,Reduced access to urgent care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,1.2,0.3,,0,0
+3,Reduced access to urgent care,Chronic conditions,Current asthma,560,Total,,,,,
+3,Reduced access to urgent care,Chronic conditions,Current asthma,,For any reason,6.9,1.2,,0,0
+3,Reduced access to urgent care,Chronic conditions,Current asthma,,Due to pandemic,3.1,1,,,0
+1,Reduced access to surgical procedure,Total,Total,6679,Total,,,,,
+1,Reduced access to surgical procedure,Total,Total,,For any reason,5.4,0.5,,,
+1,Reduced access to surgical procedure,Total,Total,,Due to pandemic,4,0.3,,,
+1,Reduced access to surgical procedure,Age group,18-44 years,2586,Total,,,,,
+1,Reduced access to surgical procedure,Age group,18-44 years,,For any reason,4.9,0.7,,,
+1,Reduced access to surgical procedure,Age group,18-44 years,,Due to pandemic,3.5,0.6,,,
+1,Reduced access to surgical procedure,Age group,45-64 years,2325,Total,,,,,
+1,Reduced access to surgical procedure,Age group,45-64 years,,For any reason,5.4,0.8,,,
+1,Reduced access to surgical procedure,Age group,45-64 years,,Due to pandemic,4.5,0.7,,,
+1,Reduced access to surgical procedure,Age group,65 years and over,1768,Total,,,,,
+1,Reduced access to surgical procedure,Age group,65 years and over,,For any reason,6.4,0.6,,,
+1,Reduced access to surgical procedure,Age group,65 years and over,,Due to pandemic,4.6,0.6,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,4432,Total,,,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,,For any reason,4.8,0.5,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,3.8,0.4,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,800,Total,,,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,,For any reason,5.6,0.9,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,3.3,0.7,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,519,Total,,,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,,For any reason,3.6,0.9,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,2.8,0.8,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,928,Total,,,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,,For any reason,8.3,1.7,,,
+1,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,,Due to pandemic,6.2,1.4,,,
+1,Reduced access to surgical procedure,Sex,Male,2921,Total,,,,,
+1,Reduced access to surgical procedure,Sex,Male,,For any reason,5.1,0.6,,,
+1,Reduced access to surgical procedure,Sex,Male,,Due to pandemic,3.4,0.5,,,
+1,Reduced access to surgical procedure,Sex,Female,3758,Total,,,,,
+1,Reduced access to surgical procedure,Sex,Female,,For any reason,5.7,0.5,,,
+1,Reduced access to surgical procedure,Sex,Female,,Due to pandemic,4.6,0.5,,,
+1,Reduced access to surgical procedure,Education,High school graduate or less,1273,Total,,,,,
+1,Reduced access to surgical procedure,Education,High school graduate or less,,For any reason,6.5,1.1,,,
+1,Reduced access to surgical procedure,Education,High school graduate or less,,Due to pandemic,4.8,0.8,,,
+1,Reduced access to surgical procedure,Education,Some college,2512,Total,,,,,
+1,Reduced access to surgical procedure,Education,Some college,,For any reason,5.5,0.5,,,
+1,Reduced access to surgical procedure,Education,Some college,,Due to pandemic,4.1,0.4,,,
+1,Reduced access to surgical procedure,Education,Bachelor's degree or above,2894,Total,,,,,
+1,Reduced access to surgical procedure,Education,Bachelor's degree or above,,For any reason,4.1,0.4,,,
+1,Reduced access to surgical procedure,Education,Bachelor's degree or above,,Due to pandemic,3.2,0.3,,,
+1,Reduced access to surgical procedure,Urbanization,Metropolitan,5955,Total,,,,,
+1,Reduced access to surgical procedure,Urbanization,Metropolitan,,For any reason,5.2,0.4,,,
+1,Reduced access to surgical procedure,Urbanization,Metropolitan,,Due to pandemic,3.9,0.3,,,
+1,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,724,Total,,,,,
+1,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,,For any reason,7.3,1.8,,,
+1,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,,Due to pandemic,5.4,1.3,,,
+1,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,4000,Total,,,,,
+1,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,,For any reason,7.1,0.7,,,
+1,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,,Due to pandemic,5.2,0.5,,,
+1,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,758,Total,,,,,
+1,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,,For any reason,9.5,2,,,
+1,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,,Due to pandemic,6,1.2,,,
+1,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,2371,Total,,,,,
+1,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,,For any reason,7.3,0.8,,,
+1,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,,Due to pandemic,5.4,0.6,,,
+1,Reduced access to surgical procedure,Chronic conditions,Current asthma,685,Total,,,,,
+1,Reduced access to surgical procedure,Chronic conditions,Current asthma,,For any reason,8.8,2.1,,,
+1,Reduced access to surgical procedure,Chronic conditions,Current asthma,,Due to pandemic,6.3,1.8,,,
+2,Reduced access to surgical procedure,Total,Total,5902,Total,,,,,
+2,Reduced access to surgical procedure,Total,Total,,For any reason,4.3,0.4,,1,
+2,Reduced access to surgical procedure,Total,Total,,Due to pandemic,2.7,0.3,,1,
+2,Reduced access to surgical procedure,Age group,18-44 years,2203,Total,,,,,
+2,Reduced access to surgical procedure,Age group,18-44 years,,For any reason,4.6,0.8,,0,
+2,Reduced access to surgical procedure,Age group,18-44 years,,Due to pandemic,2.7,0.6,,0,
+2,Reduced access to surgical procedure,Age group,45-64 years,2052,Total,,,,,
+2,Reduced access to surgical procedure,Age group,45-64 years,,For any reason,4,0.6,,0,
+2,Reduced access to surgical procedure,Age group,45-64 years,,Due to pandemic,2.7,0.5,,1,
+2,Reduced access to surgical procedure,Age group,65 years and over,1647,Total,,,,,
+2,Reduced access to surgical procedure,Age group,65 years and over,,For any reason,4.1,0.5,,1,
+2,Reduced access to surgical procedure,Age group,65 years and over,,Due to pandemic,2.7,0.4,,1,
+2,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,4027,Total,,,,,
+2,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,,For any reason,3.8,0.5,,0,
+2,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,2.4,0.4,,1,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,678,Total,,,,,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,,For any reason,5,1,,0,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,2.6,0.6,,0,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,455,Total,,,,,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,,For any reason,,,*,,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,,,*,,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,742,Total,,,,,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,,For any reason,5.7,1.3,,0,
+2,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,,Due to pandemic,4,1.1,,0,
+2,Reduced access to surgical procedure,Sex,Male,2557,Total,,,,,
+2,Reduced access to surgical procedure,Sex,Male,,For any reason,3.9,0.6,,0,
+2,Reduced access to surgical procedure,Sex,Male,,Due to pandemic,2.7,0.5,,0,
+2,Reduced access to surgical procedure,Sex,Female,3345,Total,,,,,
+2,Reduced access to surgical procedure,Sex,Female,,For any reason,4.7,0.6,,0,
+2,Reduced access to surgical procedure,Sex,Female,,Due to pandemic,2.8,0.4,,1,
+2,Reduced access to surgical procedure,Education,High school graduate or less,1094,Total,,,,,
+2,Reduced access to surgical procedure,Education,High school graduate or less,,For any reason,5.5,1,,0,
+2,Reduced access to surgical procedure,Education,High school graduate or less,,Due to pandemic,2.8,0.8,,0,
+2,Reduced access to surgical procedure,Education,Some college,2195,Total,,,,,
+2,Reduced access to surgical procedure,Education,Some college,,For any reason,4.3,0.5,,1,
+2,Reduced access to surgical procedure,Education,Some college,,Due to pandemic,3.4,0.5,,0,
+2,Reduced access to surgical procedure,Education,Bachelor's degree or above,2613,Total,,,,,
+2,Reduced access to surgical procedure,Education,Bachelor's degree or above,,For any reason,3,0.4,,1,
+2,Reduced access to surgical procedure,Education,Bachelor's degree or above,,Due to pandemic,2.1,0.3,,1,
+2,Reduced access to surgical procedure,Urbanization,Metropolitan,5253,Total,,,,,
+2,Reduced access to surgical procedure,Urbanization,Metropolitan,,For any reason,4.1,0.4,,0,
+2,Reduced access to surgical procedure,Urbanization,Metropolitan,,Due to pandemic,2.8,0.3,,1,
+2,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,649,Total,,,,,
+2,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,,For any reason,5.4,1.6,,0,
+2,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,,Due to pandemic,2.1,0.7,,1,
+2,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,3598,Total,,,,,
+2,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,,For any reason,5.1,0.5,,1,
+2,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,,Due to pandemic,3.5,0.4,,1,
+2,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,682,Total,,,,,
+2,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,,For any reason,8.3,1.7,,0,
+2,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,,Due to pandemic,4.8,1.1,,0,
+2,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,2159,Total,,,,,
+2,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,,For any reason,4.7,0.7,,1,
+2,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,,Due to pandemic,3.2,0.5,,1,
+2,Reduced access to surgical procedure,Chronic conditions,Current asthma,618,Total,,,,,
+2,Reduced access to surgical procedure,Chronic conditions,Current asthma,,For any reason,8.1,1.6,,0,
+2,Reduced access to surgical procedure,Chronic conditions,Current asthma,,Due to pandemic,4.3,1.1,,0,
+3,Reduced access to surgical procedure,Total,Total,5400,Total,,,,,
+3,Reduced access to surgical procedure,Total,Total,,For any reason,3.5,0.4,,1,0
+3,Reduced access to surgical procedure,Total,Total,,Due to pandemic,1.2,0.2,,1,1
+3,Reduced access to surgical procedure,Age group,18-44 years,1964,Total,,,,,
+3,Reduced access to surgical procedure,Age group,18-44 years,,For any reason,4,0.7,,0,0
+3,Reduced access to surgical procedure,Age group,18-44 years,,Due to pandemic,1.4,0.3,,1,1
+3,Reduced access to surgical procedure,Age group,45-64 years,1714,Total,,,,,
+3,Reduced access to surgical procedure,Age group,45-64 years,,For any reason,3.1,0.5,,1,0
+3,Reduced access to surgical procedure,Age group,45-64 years,,Due to pandemic,0.8,0.2,,1,1
+3,Reduced access to surgical procedure,Age group,65 years and over,1722,Total,,,,,
+3,Reduced access to surgical procedure,Age group,65 years and over,,For any reason,3.1,0.5,,1,0
+3,Reduced access to surgical procedure,Age group,65 years and over,,Due to pandemic,1.2,0.3,,1,1
+3,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,3441,Total,,,,,
+3,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,,For any reason,2.5,0.4,,1,1
+3,Reduced access to surgical procedure,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,0.8,0.2,,1,1
+3,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,758,Total,,,,,
+3,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,,For any reason,7.1,1.5,,0,0
+3,Reduced access to surgical procedure,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,2,0.6,,0,0
+3,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,388,Total,,,,,
+3,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,,For any reason,2.4,1,,0,
+3,Reduced access to surgical procedure,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,0.3,0.2,,1,
+3,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,813,Total,,,,,
+3,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,,For any reason,5.2,1.2,,0,0
+3,Reduced access to surgical procedure,Race/Hispanic origin,Hispanic,,Due to pandemic,2.3,0.7,,1,0
+3,Reduced access to surgical procedure,Sex,Male,2442,Total,,,,,
+3,Reduced access to surgical procedure,Sex,Male,,For any reason,2.9,0.4,,1,0
+3,Reduced access to surgical procedure,Sex,Male,,Due to pandemic,1,0.3,,1,1
+3,Reduced access to surgical procedure,Sex,Female,2958,Total,,,,,
+3,Reduced access to surgical procedure,Sex,Female,,For any reason,4.1,0.6,,1,0
+3,Reduced access to surgical procedure,Sex,Female,,Due to pandemic,1.3,0.3,,1,1
+3,Reduced access to surgical procedure,Education,High school graduate or less,1266,Total,,,,,
+3,Reduced access to surgical procedure,Education,High school graduate or less,,For any reason,4.5,0.8,,0,0
+3,Reduced access to surgical procedure,Education,High school graduate or less,,Due to pandemic,1.1,0.3,,1,1
+3,Reduced access to surgical procedure,Education,Some college,2555,Total,,,,,
+3,Reduced access to surgical procedure,Education,Some college,,For any reason,3.6,0.5,,1,0
+3,Reduced access to surgical procedure,Education,Some college,,Due to pandemic,1.8,0.4,,1,1
+3,Reduced access to surgical procedure,Education,Bachelor's degree or above,1579,Total,,,,,
+3,Reduced access to surgical procedure,Education,Bachelor's degree or above,,For any reason,2.1,0.3,,1,0
+3,Reduced access to surgical procedure,Education,Bachelor's degree or above,,Due to pandemic,0.5,0.2,,1,1
+3,Reduced access to surgical procedure,Urbanization,Metropolitan,4572,Total,,,,,
+3,Reduced access to surgical procedure,Urbanization,Metropolitan,,For any reason,3.7,0.5,,1,0
+3,Reduced access to surgical procedure,Urbanization,Metropolitan,,Due to pandemic,1.2,0.2,,1,1
+3,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,828,Total,,,,,
+3,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,,For any reason,2.4,0.7,,1,1
+3,Reduced access to surgical procedure,Urbanization,Non-Metropolitan,,Due to pandemic,0.9,0.3,,1,0
+3,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,3376,Total,,,,,
+3,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,,For any reason,4.5,0.6,,1,0
+3,Reduced access to surgical procedure,Chronic conditions,One or more chronic conditions,,Due to pandemic,1.4,0.3,,1,1
+3,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,732,Total,,,,,
+3,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,,For any reason,8.2,1.7,,0,0
+3,Reduced access to surgical procedure,Chronic conditions,Diagnosed diabetes,,Due to pandemic,2.5,0.7,,1,0
+3,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,2077,Total,,,,,
+3,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,,For any reason,5.1,0.8,,1,0
+3,Reduced access to surgical procedure,Chronic conditions,Diagnosed hypertension,,Due to pandemic,1.5,0.4,,1,1
+3,Reduced access to surgical procedure,Chronic conditions,Current asthma,560,Total,,,,,
+3,Reduced access to surgical procedure,Chronic conditions,Current asthma,,For any reason,7,1.7,,0,0
+3,Reduced access to surgical procedure,Chronic conditions,Current asthma,,Due to pandemic,2.3,0.8,,1,0
+1,Reduced access to diagnostic or medical screening test,Total,Total,6716,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Total,Total,,For any reason,9.6,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Total,Total,,Due to pandemic,6.4,0.4,,,
+1,Reduced access to diagnostic or medical screening test,Age group,18-44 years,2593,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Age group,18-44 years,,For any reason,7.9,0.6,,,
+1,Reduced access to diagnostic or medical screening test,Age group,18-44 years,,Due to pandemic,4.9,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Age group,45-64 years,2347,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Age group,45-64 years,,For any reason,11,0.7,,,
+1,Reduced access to diagnostic or medical screening test,Age group,45-64 years,,Due to pandemic,7.2,0.6,,,
+1,Reduced access to diagnostic or medical screening test,Age group,65 years and over,1776,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Age group,65 years and over,,For any reason,11,1,,,
+1,Reduced access to diagnostic or medical screening test,Age group,65 years and over,,Due to pandemic,8.5,0.8,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,4456,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,,For any reason,8.9,0.6,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,6.1,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,803,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,,For any reason,10.9,1.3,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,5.3,0.9,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,524,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,,For any reason,12.2,1.8,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,8.9,1.3,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,933,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,,For any reason,10.2,1.4,,,
+1,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,,Due to pandemic,7.4,1.2,,,
+1,Reduced access to diagnostic or medical screening test,Sex,Male,2941,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Sex,Male,,For any reason,7.7,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Sex,Male,,Due to pandemic,4.5,0.4,,,
+1,Reduced access to diagnostic or medical screening test,Sex,Female,3775,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Sex,Female,,For any reason,11.3,0.8,,,
+1,Reduced access to diagnostic or medical screening test,Sex,Female,,Due to pandemic,8.2,0.6,,,
+1,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,1282,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,,For any reason,8.1,0.9,,,
+1,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,,Due to pandemic,4.7,0.7,,,
+1,Reduced access to diagnostic or medical screening test,Education,Some college,2521,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Education,Some college,,For any reason,9.9,0.7,,,
+1,Reduced access to diagnostic or medical screening test,Education,Some college,,Due to pandemic,6.5,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,2913,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,,For any reason,10.9,0.7,,,
+1,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,,Due to pandemic,8.2,0.6,,,
+1,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,5990,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,,For any reason,9.8,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,,Due to pandemic,6.5,0.4,,,
+1,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,726,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,,For any reason,7.6,1.5,,,
+1,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,,Due to pandemic,5.5,1.5,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,4030,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,,For any reason,12.3,0.6,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,,Due to pandemic,8.2,0.5,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,760,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,,For any reason,16.3,1.3,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,,Due to pandemic,9.4,1,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,2390,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,,For any reason,12.9,0.8,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,,Due to pandemic,8.6,0.7,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,691,Total,,,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,,For any reason,15.1,1.5,,,
+1,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,,Due to pandemic,9.8,1.3,,,
+2,Reduced access to diagnostic or medical screening test,Total,Total,5927,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Total,Total,,For any reason,8.4,0.6,,0,
+2,Reduced access to diagnostic or medical screening test,Total,Total,,Due to pandemic,4.5,0.4,,1,
+2,Reduced access to diagnostic or medical screening test,Age group,18-44 years,2202,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Age group,18-44 years,,For any reason,8.1,0.9,,0,
+2,Reduced access to diagnostic or medical screening test,Age group,18-44 years,,Due to pandemic,3.6,0.5,,1,
+2,Reduced access to diagnostic or medical screening test,Age group,45-64 years,2064,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Age group,45-64 years,,For any reason,8.7,0.8,,1,
+2,Reduced access to diagnostic or medical screening test,Age group,45-64 years,,Due to pandemic,5.7,0.7,,0,
+2,Reduced access to diagnostic or medical screening test,Age group,65 years and over,1661,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Age group,65 years and over,,For any reason,8.3,0.9,,1,
+2,Reduced access to diagnostic or medical screening test,Age group,65 years and over,,Due to pandemic,4.6,0.7,,1,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,4042,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,,For any reason,7.2,0.5,,1,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,4.1,0.5,,1,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,684,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,,For any reason,11.7,1.3,,0,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,5.1,0.7,,0,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,458,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,,For any reason,9.4,1.5,,0,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,6,1.7,,0,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,743,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,,For any reason,9.9,1.6,,0,
+2,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,,Due to pandemic,5.2,1.1,,0,
+2,Reduced access to diagnostic or medical screening test,Sex,Male,2574,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Sex,Male,,For any reason,7.7,0.9,,0,
+2,Reduced access to diagnostic or medical screening test,Sex,Male,,Due to pandemic,3.7,0.6,,0,
+2,Reduced access to diagnostic or medical screening test,Sex,Female,3353,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Sex,Female,,For any reason,9,0.7,,1,
+2,Reduced access to diagnostic or medical screening test,Sex,Female,,Due to pandemic,5.3,0.6,,1,
+2,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,1093,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,,For any reason,8.7,1.1,,0,
+2,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,,Due to pandemic,3.3,0.7,,0,
+2,Reduced access to diagnostic or medical screening test,Education,Some college,2208,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Education,Some college,,For any reason,9.5,0.7,,0,
+2,Reduced access to diagnostic or medical screening test,Education,Some college,,Due to pandemic,6.1,0.6,,0,
+2,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,2626,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,,For any reason,7,0.5,,1,
+2,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,,Due to pandemic,4.4,0.5,,1,
+2,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,5272,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,,For any reason,8.4,0.6,,1,
+2,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,,Due to pandemic,4.6,0.4,,1,
+2,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,655,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,,For any reason,7.9,2.2,,0,
+2,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,,Due to pandemic,,,*,,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,3621,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,,For any reason,10.6,0.8,,0,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,,Due to pandemic,6.2,0.6,,1,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,685,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,,For any reason,15.8,2.6,,0,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,,Due to pandemic,9.5,2.2,,0,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,2169,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,,For any reason,10.7,1.1,,0,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,,Due to pandemic,6,0.9,,1,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,615,Total,,,,,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,,For any reason,15.5,2.3,,0,
+2,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,,Due to pandemic,9.1,1.8,,0,
+3,Reduced access to diagnostic or medical screening test,Total,Total,5422,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Total,Total,,For any reason,7.4,0.4,,1,0
+3,Reduced access to diagnostic or medical screening test,Total,Total,,Due to pandemic,2.4,0.3,,1,1
+3,Reduced access to diagnostic or medical screening test,Age group,18-44 years,1967,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Age group,18-44 years,,For any reason,7.8,0.8,,0,0
+3,Reduced access to diagnostic or medical screening test,Age group,18-44 years,,Due to pandemic,2.2,0.5,,1,1
+3,Reduced access to diagnostic or medical screening test,Age group,45-64 years,1723,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Age group,45-64 years,,For any reason,8.1,0.8,,1,0
+3,Reduced access to diagnostic or medical screening test,Age group,45-64 years,,Due to pandemic,2.9,0.5,,1,1
+3,Reduced access to diagnostic or medical screening test,Age group,65 years and over,1732,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Age group,65 years and over,,For any reason,5.6,0.7,,1,1
+3,Reduced access to diagnostic or medical screening test,Age group,65 years and over,,Due to pandemic,2.2,0.4,,1,1
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,3459,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,,For any reason,6.3,0.4,,1,0
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,2.1,0.3,,1,1
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,758,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,,For any reason,11.7,1.7,,0,0
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,3.1,0.8,,0,0
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,390,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,,For any reason,7.1,2,,1,0
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,,,*,,
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,815,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,,For any reason,9,1.3,,0,0
+3,Reduced access to diagnostic or medical screening test,Race/Hispanic origin,Hispanic,,Due to pandemic,2.6,0.6,,1,1
+3,Reduced access to diagnostic or medical screening test,Sex,Male,2448,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Sex,Male,,For any reason,6.7,0.7,,0,0
+3,Reduced access to diagnostic or medical screening test,Sex,Male,,Due to pandemic,2.2,0.3,,1,1
+3,Reduced access to diagnostic or medical screening test,Sex,Female,2974,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Sex,Female,,For any reason,8.1,0.6,,1,0
+3,Reduced access to diagnostic or medical screening test,Sex,Female,,Due to pandemic,2.7,0.5,,1,1
+3,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,1272,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,,For any reason,8,0.8,,0,0
+3,Reduced access to diagnostic or medical screening test,Education,High school graduate or less,,Due to pandemic,1.9,0.4,,1,1
+3,Reduced access to diagnostic or medical screening test,Education,Some college,2568,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Education,Some college,,For any reason,7.7,0.8,,1,0
+3,Reduced access to diagnostic or medical screening test,Education,Some college,,Due to pandemic,3.2,0.5,,1,1
+3,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,1582,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,,For any reason,6.4,0.8,,1,0
+3,Reduced access to diagnostic or medical screening test,Education,Bachelor's degree or above,,Due to pandemic,2.3,0.6,,1,1
+3,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,4590,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,,For any reason,7.7,0.4,,1,0
+3,Reduced access to diagnostic or medical screening test,Urbanization,Metropolitan,,Due to pandemic,2.5,0.3,,1,1
+3,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,832,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,,For any reason,5.9,0.7,,0,0
+3,Reduced access to diagnostic or medical screening test,Urbanization,Non-Metropolitan,,Due to pandemic,1.8,0.4,,1,
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,3394,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,,For any reason,8.5,0.5,,1,1
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,One or more chronic conditions,,Due to pandemic,3,0.3,,1,1
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,737,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,,For any reason,13.8,2.1,,0,0
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed diabetes,,Due to pandemic,4.1,1.1,,1,1
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,2089,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,,For any reason,8.8,0.8,,1,0
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Diagnosed hypertension,,Due to pandemic,2.7,0.4,,1,1
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,562,Total,,,,,
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,,For any reason,11.2,1.5,,0,0
+3,Reduced access to diagnostic or medical screening test,Chronic conditions,Current asthma,,Due to pandemic,4.2,0.9,,1,1
+1,Reduced access to treatment for ongoing condition,Total,Total,6730,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Total,Total,,For any reason,10.5,0.5,,,
+1,Reduced access to treatment for ongoing condition,Total,Total,,Due to pandemic,6.2,0.4,,,
+1,Reduced access to treatment for ongoing condition,Age group,18-44 years,2596,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Age group,18-44 years,,For any reason,8.9,0.8,,,
+1,Reduced access to treatment for ongoing condition,Age group,18-44 years,,Due to pandemic,5.4,0.6,,,
+1,Reduced access to treatment for ongoing condition,Age group,45-64 years,2352,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Age group,45-64 years,,For any reason,12.2,0.8,,,
+1,Reduced access to treatment for ongoing condition,Age group,45-64 years,,Due to pandemic,7.1,0.7,,,
+1,Reduced access to treatment for ongoing condition,Age group,65 years and over,1782,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Age group,65 years and over,,For any reason,11.2,0.9,,,
+1,Reduced access to treatment for ongoing condition,Age group,65 years and over,,Due to pandemic,6.4,0.6,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,4466,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,,For any reason,9.9,0.7,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,6,0.5,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,804,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,,For any reason,12.6,1.7,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,5.5,0.9,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,526,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,,For any reason,8.6,1.2,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,5.3,1.1,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,934,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,,For any reason,11.8,1.3,,,
+1,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,,Due to pandemic,7.9,1.3,,,
+1,Reduced access to treatment for ongoing condition,Sex,Male,2945,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Sex,Male,,For any reason,9.3,0.7,,,
+1,Reduced access to treatment for ongoing condition,Sex,Male,,Due to pandemic,4.9,0.4,,,
+1,Reduced access to treatment for ongoing condition,Sex,Female,3785,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Sex,Female,,For any reason,11.5,0.7,,,
+1,Reduced access to treatment for ongoing condition,Sex,Female,,Due to pandemic,7.4,0.6,,,
+1,Reduced access to treatment for ongoing condition,Education,High school graduate or less,1285,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Education,High school graduate or less,,For any reason,11,0.9,,,
+1,Reduced access to treatment for ongoing condition,Education,High school graduate or less,,Due to pandemic,5.7,0.7,,,
+1,Reduced access to treatment for ongoing condition,Education,Some college,2527,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Education,Some college,,For any reason,11.4,0.9,,,
+1,Reduced access to treatment for ongoing condition,Education,Some college,,Due to pandemic,7,0.6,,,
+1,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,2918,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,,For any reason,9,0.6,,,
+1,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,,Due to pandemic,6.1,0.4,,,
+1,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,6004,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,,For any reason,10.1,0.5,,,
+1,Reduced access to regular checkup,Total,Total,,Due to pandemic,12.7,0.6,,,
+1,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,,Due to pandemic,5.9,0.4,,,
+1,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,726,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,,For any reason,13,1.8,,,
+1,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,,Due to pandemic,8.5,1.4,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,4042,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,,For any reason,14.4,0.7,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,,Due to pandemic,8.3,0.5,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,764,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,,For any reason,18,1.4,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,,Due to pandemic,8.6,1.4,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,2399,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,,For any reason,15.4,1,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,,Due to pandemic,9,0.8,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,693,Total,,,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,,For any reason,19.4,1.7,,,
+1,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,,Due to pandemic,11.8,1.6,,,
+2,Reduced access to treatment for ongoing condition,Total,Total,5928,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Total,Total,,For any reason,8.6,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Total,Total,,Due to pandemic,4.4,0.3,,1,
+2,Reduced access to treatment for ongoing condition,Age group,18-44 years,2199,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Age group,18-44 years,,For any reason,8.1,0.8,,0,
+2,Reduced access to treatment for ongoing condition,Age group,18-44 years,,Due to pandemic,4.1,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Age group,45-64 years,2062,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Age group,45-64 years,,For any reason,9.2,0.9,,1,
+2,Reduced access to treatment for ongoing condition,Age group,45-64 years,,Due to pandemic,5.4,0.7,,1,
+2,Reduced access to treatment for ongoing condition,Age group,65 years and over,1667,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Age group,65 years and over,,For any reason,8.4,0.7,,1,
+2,Reduced access to treatment for ongoing condition,Age group,65 years and over,,Due to pandemic,3.5,0.7,,1,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,4046,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,,For any reason,7.5,0.6,,1,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,4.1,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,681,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,,For any reason,13.3,2.3,,0,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,6.3,1.3,,0,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,458,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,,For any reason,8.5,1.7,,0,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,3.5,1.1,,0,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,743,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,,For any reason,9.3,1.3,,0,
+2,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,,Due to pandemic,4.5,0.8,,1,
+2,Reduced access to treatment for ongoing condition,Sex,Male,2569,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Sex,Male,,For any reason,7.8,0.9,,0,
+2,Reduced access to treatment for ongoing condition,Sex,Male,,Due to pandemic,3.7,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Sex,Female,3359,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Sex,Female,,For any reason,9.3,0.7,,1,
+2,Reduced access to treatment for ongoing condition,Sex,Female,,Due to pandemic,5,0.4,,1,
+2,Reduced access to treatment for ongoing condition,Education,High school graduate or less,1097,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Education,High school graduate or less,,For any reason,8.9,1,,0,
+2,Reduced access to treatment for ongoing condition,Education,High school graduate or less,,Due to pandemic,3.2,0.6,,1,
+2,Reduced access to treatment for ongoing condition,Education,Some college,2210,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Education,Some college,,For any reason,10.7,0.7,,0,
+2,Reduced access to treatment for ongoing condition,Education,Some college,,Due to pandemic,6.7,0.6,,0,
+2,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,2621,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,,For any reason,6.2,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,,Due to pandemic,3.5,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,5274,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,,For any reason,8.3,0.5,,1,
+2,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,,Due to pandemic,4.4,0.3,,1,
+2,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,654,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,,For any reason,10.6,1.7,,0,
+2,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,,Due to pandemic,4.3,1,,1,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,3622,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,,For any reason,11.4,0.7,,1,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,,Due to pandemic,6.3,0.6,,1,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,685,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,,For any reason,18.7,1.8,,0,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,,Due to pandemic,9.5,1.5,,0,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,2173,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,,For any reason,12.2,0.6,,1,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,,Due to pandemic,6.4,0.7,,1,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,617,Total,,,,,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,,For any reason,16.9,2.3,,0,
+2,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,,Due to pandemic,10.7,2.1,,0,
+3,Reduced access to treatment for ongoing condition,Total,Total,5427,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Total,Total,,For any reason,7.3,0.6,,1,0
+3,Reduced access to treatment for ongoing condition,Total,Total,,Due to pandemic,2.5,0.3,,1,1
+3,Reduced access to treatment for ongoing condition,Age group,18-44 years,1969,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Age group,18-44 years,,For any reason,7.6,0.9,,0,0
+3,Reduced access to treatment for ongoing condition,Age group,18-44 years,,Due to pandemic,2.5,0.5,,1,0
+3,Reduced access to treatment for ongoing condition,Age group,45-64 years,1723,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Age group,45-64 years,,For any reason,7,0.7,,1,1
+3,Reduced access to treatment for ongoing condition,Age group,45-64 years,,Due to pandemic,2.2,0.5,,1,1
+3,Reduced access to treatment for ongoing condition,Age group,65 years and over,1735,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Age group,65 years and over,,For any reason,7.3,0.7,,1,0
+3,Reduced access to treatment for ongoing condition,Age group,65 years and over,,Due to pandemic,2.8,0.6,,1,0
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,3461,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,,For any reason,6.8,0.6,,1,0
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,2.2,0.3,,1,1
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,761,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,,For any reason,10.2,1.6,,0,0
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,3,0.9,,0,0
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,390,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,,For any reason,6.7,2,,0,0
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,,,*,,
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,815,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,,For any reason,7.8,1.4,,1,0
+3,Reduced access to treatment for ongoing condition,Race/Hispanic origin,Hispanic,,Due to pandemic,2.8,0.7,,1,0
+3,Reduced access to treatment for ongoing condition,Sex,Male,2447,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Sex,Male,,For any reason,6.6,0.7,,1,0
+3,Reduced access to treatment for ongoing condition,Sex,Male,,Due to pandemic,2.1,0.3,,1,1
+3,Reduced access to treatment for ongoing condition,Sex,Female,2980,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Sex,Female,,For any reason,8.1,0.7,,1,0
+3,Reduced access to treatment for ongoing condition,Sex,Female,,Due to pandemic,2.8,0.5,,1,1
+3,Reduced access to treatment for ongoing condition,Education,High school graduate or less,1273,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Education,High school graduate or less,,For any reason,7.2,0.9,,1,0
+3,Reduced access to treatment for ongoing condition,Education,High school graduate or less,,Due to pandemic,2,0.4,,1,0
+3,Reduced access to treatment for ongoing condition,Education,Some college,2571,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Education,Some college,,For any reason,8.5,0.8,,1,1
+3,Reduced access to treatment for ongoing condition,Education,Some college,,Due to pandemic,3.2,0.4,,1,1
+3,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,1583,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,,For any reason,6.3,0.8,,1,0
+3,Reduced access to treatment for ongoing condition,Education,Bachelor's degree or above,,Due to pandemic,2.2,0.6,,1,0
+3,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,4596,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,,For any reason,7.6,0.6,,1,0
+3,Reduced access to treatment for ongoing condition,Urbanization,Metropolitan,,Due to pandemic,2.5,0.3,,1,1
+3,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,831,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,,For any reason,5.9,1.3,,1,1
+3,Reduced access to treatment for ongoing condition,Urbanization,Non-Metropolitan,,Due to pandemic,2.6,0.8,,1,0
+3,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,3399,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,,For any reason,8.9,0.7,,1,1
+3,Reduced access to treatment for ongoing condition,Chronic conditions,One or more chronic conditions,,Due to pandemic,2.8,0.3,,1,1
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,739,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,,For any reason,13.5,1.8,,0,0
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed diabetes,,Due to pandemic,4.5,0.8,,1,1
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,2094,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,,For any reason,9.7,1,,1,1
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Diagnosed hypertension,,Due to pandemic,3.3,0.5,,1,1
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,563,Total,,,,,
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,,For any reason,11.5,1.5,,1,0
+3,Reduced access to treatment for ongoing condition,Chronic conditions,Current asthma,,Due to pandemic,4.6,0.9,,1,1
+1,Reduced access to regular checkup,Total,Total,6735,Total,,,,,
+1,Reduced access to regular checkup,Total,Total,,For any reason,17.9,0.7,,,
+1,Reduced access to regular checkup,Age group,18-44 years,2596,Total,,,,,
+1,Reduced access to regular checkup,Age group,18-44 years,,For any reason,18,1.4,,,
+1,Reduced access to regular checkup,Age group,18-44 years,,Due to pandemic,12.4,1.1,,,
+1,Reduced access to regular checkup,Age group,45-64 years,2354,Total,,,,,
+1,Reduced access to regular checkup,Age group,45-64 years,,For any reason,17,0.7,,,
+1,Reduced access to regular checkup,Age group,45-64 years,,Due to pandemic,12.5,0.8,,,
+1,Reduced access to regular checkup,Age group,65 years and over,1785,Total,,,,,
+1,Reduced access to regular checkup,Age group,65 years and over,,For any reason,19.1,1,,,
+1,Reduced access to regular checkup,Age group,65 years and over,,Due to pandemic,13.5,0.8,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,4469,Total,,,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,,For any reason,15.9,0.7,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,11.9,0.7,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,804,Total,,,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,,For any reason,23.2,1.9,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,12.9,1.8,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,527,Total,,,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,,For any reason,18.5,2.5,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,13.5,2.3,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,935,Total,,,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,,For any reason,21.7,1.7,,,
+1,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,,Due to pandemic,15.1,1.5,,,
+1,Reduced access to regular checkup,Sex,Male,2943,Total,,,,,
+1,Reduced access to regular checkup,Sex,Male,,For any reason,16.4,1,,,
+1,Reduced access to regular checkup,Sex,Male,,Due to pandemic,10.5,0.7,,,
+1,Reduced access to regular checkup,Sex,Female,3792,Total,,,,,
+1,Reduced access to regular checkup,Sex,Female,,For any reason,19.4,1.1,,,
+1,Reduced access to regular checkup,Sex,Female,,Due to pandemic,14.7,1,,,
+1,Reduced access to regular checkup,Education,High school graduate or less,1286,Total,,,,,
+1,Reduced access to regular checkup,Education,High school graduate or less,,For any reason,18.7,1.4,,,
+1,Reduced access to regular checkup,Education,High school graduate or less,,Due to pandemic,11.6,1.1,,,
+1,Reduced access to regular checkup,Education,Some college,2533,Total,,,,,
+1,Reduced access to regular checkup,Education,Some college,,For any reason,18.6,1.2,,,
+1,Reduced access to regular checkup,Education,Some college,,Due to pandemic,13.6,1,,,
+1,Reduced access to regular checkup,Education,Bachelor's degree or above,2916,Total,,,,,
+1,Reduced access to regular checkup,Education,Bachelor's degree or above,,For any reason,16.4,0.7,,,
+1,Reduced access to regular checkup,Education,Bachelor's degree or above,,Due to pandemic,13,0.6,,,
+1,Reduced access to regular checkup,Urbanization,Metropolitan,6002,Total,,,,,
+1,Reduced access to regular checkup,Urbanization,Metropolitan,,For any reason,17.9,0.7,,,
+1,Reduced access to regular checkup,Urbanization,Metropolitan,,Due to pandemic,12.6,0.6,,,
+1,Reduced access to regular checkup,Urbanization,Non-Metropolitan,733,Total,,,,,
+1,Reduced access to regular checkup,Urbanization,Non-Metropolitan,,For any reason,17.9,2.3,,,
+1,Reduced access to regular checkup,Urbanization,Non-Metropolitan,,Due to pandemic,13.5,1.9,,,
+1,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,4046,Total,,,,,
+1,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,,For any reason,20.9,0.7,,,
+1,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,,Due to pandemic,15,0.8,,,
+1,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,765,Total,,,,,
+1,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,,For any reason,24.8,2,,,
+1,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,,Due to pandemic,16.9,2,,,
+1,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,2403,Total,,,,,
+1,Reduced access to dental care,Education,Some college,2532,Total,,,,,
+1,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,,For any reason,21.9,1.2,,,
+1,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,,Due to pandemic,15.7,1.1,,,
+1,Reduced access to regular checkup,Chronic conditions,Current asthma,693,Total,,,,,
+1,Reduced access to regular checkup,Chronic conditions,Current asthma,,For any reason,25.7,2.6,,,
+1,Reduced access to regular checkup,Chronic conditions,Current asthma,,Due to pandemic,18,2.1,,,
+2,Reduced access to regular checkup,Total,Total,5938,Total,,,,,
+2,Reduced access to regular checkup,Total,Total,,For any reason,15.6,0.5,,1,
+2,Reduced access to regular checkup,Total,Total,,Due to pandemic,10.1,0.5,,1,
+2,Reduced access to regular checkup,Age group,18-44 years,2207,Total,,,,,
+2,Reduced access to regular checkup,Age group,18-44 years,,For any reason,16.3,0.9,,0,
+2,Reduced access to regular checkup,Age group,18-44 years,,Due to pandemic,9.9,0.9,,1,
+2,Reduced access to regular checkup,Age group,45-64 years,2063,Total,,,,,
+2,Reduced access to regular checkup,Age group,45-64 years,,For any reason,15.5,0.9,,0,
+2,Reduced access to regular checkup,Age group,45-64 years,,Due to pandemic,11,0.7,,0,
+2,Reduced access to regular checkup,Age group,65 years and over,1668,Total,,,,,
+2,Reduced access to regular checkup,Age group,65 years and over,,For any reason,14,1.2,,1,
+2,Reduced access to regular checkup,Age group,65 years and over,,Due to pandemic,8.9,1,,1,
+2,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,4045,Total,,,,,
+2,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,,For any reason,13.1,0.6,,1,
+2,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,8.5,0.6,,1,
+2,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,687,Total,,,,,
+2,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,,For any reason,21.2,2,,0,
+2,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,14.3,1.7,,0,
+2,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,459,Total,,,,,
+2,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,,For any reason,20.4,2.3,,0,
+2,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,15.3,1.7,,0,
+2,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,747,Total,,,,,
+2,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,,For any reason,18.9,1.8,,0,
+2,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,,Due to pandemic,10.6,1.6,,1,
+2,Reduced access to regular checkup,Sex,Male,2572,Total,,,,,
+2,Reduced access to regular checkup,Sex,Male,,For any reason,14.6,0.8,,0,
+2,Reduced access to regular checkup,Sex,Male,,Due to pandemic,8.9,0.5,,1,
+2,Reduced access to regular checkup,Sex,Female,3366,Total,,,,,
+2,Reduced access to regular checkup,Sex,Female,,For any reason,16.4,0.9,,1,
+2,Reduced access to regular checkup,Sex,Female,,Due to pandemic,11.2,0.7,,1,
+2,Reduced access to regular checkup,Education,High school graduate or less,1095,Total,,,,,
+2,Reduced access to regular checkup,Education,High school graduate or less,,For any reason,17,1.3,,0,
+2,Reduced access to regular checkup,Education,High school graduate or less,,Due to pandemic,8.6,0.9,,1,
+2,Reduced access to regular checkup,Education,Some college,2219,Total,,,,,
+2,Reduced access to regular checkup,Education,Some college,,For any reason,15.8,0.9,,1,
+2,Reduced access to regular checkup,Education,Some college,,Due to pandemic,11.2,1,,0,
+2,Reduced access to regular checkup,Education,Bachelor's degree or above,2624,Total,,,,,
+2,Reduced access to regular checkup,Education,Bachelor's degree or above,,For any reason,13.8,0.6,,1,
+2,Reduced access to regular checkup,Education,Bachelor's degree or above,,Due to pandemic,10.5,0.6,,1,
+2,Reduced access to regular checkup,Urbanization,Metropolitan,5284,Total,,,,,
+2,Reduced access to regular checkup,Urbanization,Metropolitan,,For any reason,15.7,0.5,,1,
+2,Reduced access to regular checkup,Urbanization,Metropolitan,,Due to pandemic,10.2,0.5,,1,
+2,Reduced access to regular checkup,Urbanization,Non-Metropolitan,654,Total,,,,,
+2,Reduced access to regular checkup,Urbanization,Non-Metropolitan,,For any reason,14.9,1.5,,0,
+1,Reduced access to dental care,Education,Some college,,For any reason,27,1.1,,,
+2,Reduced access to regular checkup,Urbanization,Non-Metropolitan,,Due to pandemic,9.3,1.7,,1,
+2,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,3624,Total,,,,,
+2,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,,For any reason,18.4,0.6,,1,
+2,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,,Due to pandemic,11.9,0.6,,1,
+2,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,686,Total,,,,,
+2,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,,For any reason,24.1,1.9,,0,
+2,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,,Due to pandemic,15.1,1.5,,0,
+2,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,2174,Total,,,,,
+2,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,,For any reason,19.2,0.8,,1,
+2,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,,Due to pandemic,11.9,0.8,,1,
+2,Reduced access to regular checkup,Chronic conditions,Current asthma,615,Total,,,,,
+2,Reduced access to regular checkup,Chronic conditions,Current asthma,,For any reason,25,2.2,,0,
+2,Reduced access to regular checkup,Chronic conditions,Current asthma,,Due to pandemic,15.8,1.7,,0,
+3,Reduced access to regular checkup,Total,Total,5424,Total,,,,,
+3,Reduced access to regular checkup,Total,Total,,For any reason,12.5,0.5,,1,1
+3,Reduced access to regular checkup,Total,Total,,Due to pandemic,5.7,0.5,,1,1
+3,Reduced access to regular checkup,Age group,18-44 years,1971,Total,,,,,
+3,Reduced access to regular checkup,Age group,18-44 years,,For any reason,15.3,1.1,,0,0
+3,Reduced access to regular checkup,Age group,18-44 years,,Due to pandemic,7.6,0.9,,1,0
+3,Reduced access to regular checkup,Age group,45-64 years,1721,Total,,,,,
+3,Reduced access to regular checkup,Age group,45-64 years,,For any reason,11.4,1,,1,1
+3,Reduced access to regular checkup,Age group,45-64 years,,Due to pandemic,4.9,0.8,,1,1
+3,Reduced access to regular checkup,Age group,65 years and over,1732,Total,,,,,
+3,Reduced access to regular checkup,Age group,65 years and over,,For any reason,8.1,0.8,,1,1
+3,Reduced access to regular checkup,Age group,65 years and over,,Due to pandemic,2.9,0.6,,1,1
+3,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,3457,Total,,,,,
+3,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,,For any reason,8.9,0.7,,1,1
+3,Reduced access to regular checkup,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,3.7,0.5,,1,1
+3,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,760,Total,,,,,
+3,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,,For any reason,23.5,2.4,,0,0
+3,Reduced access to regular checkup,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,9.4,2.2,,0,0
+3,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,390,Total,,,,,
+3,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,,For any reason,13.5,2.6,,0,1
+3,Reduced access to regular checkup,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,8.3,2.1,,0,1
+3,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,817,Total,,,,,
+3,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,,For any reason,17.8,1.8,,0,0
+3,Reduced access to regular checkup,Race/Hispanic origin,Hispanic,,Due to pandemic,9.7,1.6,,1,0
+3,Reduced access to regular checkup,Sex,Male,2454,Total,,,,,
+3,Reduced access to regular checkup,Sex,Male,,For any reason,12,0.8,,1,1
+3,Reduced access to regular checkup,Sex,Male,,Due to pandemic,5.6,0.6,,1,1
+3,Reduced access to regular checkup,Sex,Female,2970,Total,,,,,
+3,Reduced access to regular checkup,Sex,Female,,For any reason,13,0.8,,1,1
+3,Reduced access to regular checkup,Sex,Female,,Due to pandemic,5.9,0.7,,1,1
+3,Reduced access to regular checkup,Education,High school graduate or less,1276,Total,,,,,
+3,Reduced access to regular checkup,Education,High school graduate or less,,For any reason,14.3,1.2,,1,0
+3,Reduced access to regular checkup,Education,High school graduate or less,,Due to pandemic,6.3,1,,1,0
+3,Reduced access to regular checkup,Education,Some college,2562,Total,,,,,
+3,Reduced access to regular checkup,Education,Some college,,For any reason,12.4,1,,1,1
+3,Reduced access to regular checkup,Education,Some college,,Due to pandemic,5.7,0.7,,1,1
+3,Reduced access to regular checkup,Education,Bachelor's degree or above,1586,Total,,,,,
+3,Reduced access to regular checkup,Education,Bachelor's degree or above,,For any reason,10.1,1,,1,1
+3,Reduced access to regular checkup,Education,Bachelor's degree or above,,Due to pandemic,5,0.8,,1,1
+3,Reduced access to regular checkup,Urbanization,Metropolitan,4594,Total,,,,,
+3,Reduced access to regular checkup,Urbanization,Metropolitan,,For any reason,13.3,0.6,,1,1
+3,Reduced access to regular checkup,Urbanization,Metropolitan,,Due to pandemic,6.3,0.5,,1,1
+3,Reduced access to regular checkup,Urbanization,Non-Metropolitan,830,Total,,,,,
+3,Reduced access to regular checkup,Urbanization,Non-Metropolitan,,For any reason,7.6,1.1,,1,1
+3,Reduced access to regular checkup,Urbanization,Non-Metropolitan,,Due to pandemic,2.1,0.6,,1,1
+3,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,3398,Total,,,,,
+3,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,,For any reason,12.8,0.8,,1,1
+3,Reduced access to regular checkup,Chronic conditions,One or more chronic conditions,,Due to pandemic,5.7,0.7,,1,1
+3,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,737,Total,,,,,
+3,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,,For any reason,17.5,2.2,,1,1
+3,Reduced access to regular checkup,Chronic conditions,Diagnosed diabetes,,Due to pandemic,7.8,1.9,,1,1
+3,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,2093,Total,,,,,
+3,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,,For any reason,12.9,1.1,,1,1
+3,Reduced access to regular checkup,Chronic conditions,Diagnosed hypertension,,Due to pandemic,5.4,0.9,,1,1
+3,Reduced access to regular checkup,Chronic conditions,Current asthma,562,Total,,,,,
+3,Reduced access to regular checkup,Chronic conditions,Current asthma,,For any reason,18.5,1.7,,1,1
+3,Reduced access to regular checkup,Chronic conditions,Current asthma,,Due to pandemic,9.9,1.9,,1,1
+1,Reduced access to prescription drugs or medications,Total,Total,6740,Total,,,,,
+1,Reduced access to prescription drugs or medications,Total,Total,,For any reason,11,0.6,,,
+1,Reduced access to prescription drugs or medications,Total,Total,,Due to pandemic,3.2,0.3,,,
+1,Reduced access to prescription drugs or medications,Age group,18-44 years,2598,Total,,,,,
+1,Reduced access to prescription drugs or medications,Age group,18-44 years,,For any reason,11,0.9,,,
+1,Reduced access to prescription drugs or medications,Age group,18-44 years,,Due to pandemic,4.2,0.5,,,
+1,Reduced access to prescription drugs or medications,Age group,45-64 years,2357,Total,,,,,
+1,Reduced access to prescription drugs or medications,Age group,45-64 years,,For any reason,11.3,0.8,,,
+1,Reduced access to prescription drugs or medications,Age group,45-64 years,,Due to pandemic,2.7,0.4,,,
+1,Reduced access to prescription drugs or medications,Age group,65 years and over,1785,Total,,,,,
+1,Reduced access to prescription drugs or medications,Age group,65 years and over,,For any reason,10.5,0.9,,,
+1,Reduced access to prescription drugs or medications,Age group,65 years and over,,Due to pandemic,1.6,0.4,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,4476,Total,,,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,,For any reason,8.7,0.5,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,2.4,0.3,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,804,Total,,,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,,For any reason,17.2,1.5,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,3.7,0.8,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,526,Total,,,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,,For any reason,11.8,2,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,3.9,0.7,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,934,Total,,,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,,For any reason,14.8,1.5,,,
+1,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,,Due to pandemic,5.5,1.1,,,
+1,Reduced access to prescription drugs or medications,Sex,Male,2949,Total,,,,,
+1,Reduced access to prescription drugs or medications,Sex,Male,,For any reason,9.6,0.7,,,
+1,Reduced access to prescription drugs or medications,Sex,Male,,Due to pandemic,2.4,0.4,,,
+1,Reduced access to prescription drugs or medications,Sex,Female,3791,Total,,,,,
+1,Reduced access to prescription drugs or medications,Sex,Female,,For any reason,12.3,0.8,,,
+1,Reduced access to prescription drugs or medications,Sex,Female,,Due to pandemic,3.9,0.6,,,
+1,Reduced access to prescription drugs or medications,Education,High school graduate or less,1281,Total,,,,,
+1,Reduced access to prescription drugs or medications,Education,High school graduate or less,,For any reason,12.3,1.3,,,
+1,Reduced access to prescription drugs or medications,Education,High school graduate or less,,Due to pandemic,3.5,0.6,,,
+1,Reduced access to prescription drugs or medications,Education,Some college,2533,Total,,,,,
+1,Reduced access to prescription drugs or medications,Education,Some college,,For any reason,12.1,0.8,,,
+1,Reduced access to prescription drugs or medications,Education,Some college,,Due to pandemic,3.4,0.4,,,
+1,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,2926,Total,,,,,
+1,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,,For any reason,8.6,0.6,,,
+1,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,,Due to pandemic,2.5,0.3,,,
+1,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,6007,Total,,,,,
+1,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,,For any reason,10.6,0.5,,,
+1,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,,Due to pandemic,3,0.3,,,
+1,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,733,Total,,,,,
+1,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,,For any reason,13.9,1.8,,,
+1,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,,Due to pandemic,4.3,1.1,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,4044,Total,,,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,,For any reason,13.8,0.7,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,,Due to pandemic,3.8,0.3,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,764,Total,,,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,,For any reason,21.3,2.1,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,,Due to pandemic,4.6,0.9,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,2401,Total,,,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,,For any reason,14.8,0.9,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,,Due to pandemic,4.1,0.6,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,690,Total,,,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,,For any reason,20.9,2.4,,,
+1,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,,Due to pandemic,7.8,1.6,,,
+2,Reduced access to prescription drugs or medications,Total,Total,5946,Total,,,,,
+2,Reduced access to prescription drugs or medications,Total,Total,,For any reason,10.1,0.6,,0,
+2,Reduced access to prescription drugs or medications,Total,Total,,Due to pandemic,2.9,0.3,,0,
+2,Reduced access to prescription drugs or medications,Age group,18-44 years,2204,Total,,,,,
+2,Reduced access to prescription drugs or medications,Age group,18-44 years,,For any reason,10.6,1,,0,
+2,Reduced access to prescription drugs or medications,Age group,18-44 years,,Due to pandemic,3.1,0.5,,0,
+2,Reduced access to prescription drugs or medications,Age group,45-64 years,2074,Total,,,,,
+2,Reduced access to prescription drugs or medications,Age group,45-64 years,,For any reason,10.6,1,,0,
+2,Reduced access to prescription drugs or medications,Age group,45-64 years,,Due to pandemic,3.5,0.7,,0,
+2,Reduced access to prescription drugs or medications,Age group,65 years and over,1668,Total,,,,,
+2,Reduced access to prescription drugs or medications,Age group,65 years and over,,For any reason,8.3,1,,0,
+2,Reduced access to prescription drugs or medications,Age group,65 years and over,,Due to pandemic,1.3,0.3,,0,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,4054,Total,,,,,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,,For any reason,8.5,0.7,,0,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,1.7,0.3,,0,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,686,Total,,,,,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,,For any reason,16.9,2.2,,0,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,6.4,1.3,,0,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,460,Total,,,,,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,,For any reason,11.7,1.8,,0,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,,,*,,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,746,Total,,,,,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,,For any reason,10.8,1.5,,1,
+2,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,,Due to pandemic,4.2,1,,0,
+2,Reduced access to prescription drugs or medications,Sex,Male,2579,Total,,,,,
+2,Reduced access to prescription drugs or medications,Sex,Male,,For any reason,9.5,1,,0,
+2,Reduced access to prescription drugs or medications,Sex,Male,,Due to pandemic,2.3,0.5,,0,
+2,Reduced access to prescription drugs or medications,Sex,Female,3367,Total,,,,,
+2,Reduced access to prescription drugs or medications,Sex,Female,,For any reason,10.7,0.9,,0,
+2,Reduced access to prescription drugs or medications,Sex,Female,,Due to pandemic,3.3,0.4,,0,
+2,Reduced access to prescription drugs or medications,Education,High school graduate or less,1098,Total,,,,,
+2,Reduced access to prescription drugs or medications,Education,High school graduate or less,,For any reason,12.8,1.5,,0,
+2,Reduced access to prescription drugs or medications,Education,High school graduate or less,,Due to pandemic,2.9,0.6,,0,
+2,Reduced access to prescription drugs or medications,Education,Some college,2218,Total,,,,,
+2,Reduced access to prescription drugs or medications,Education,Some college,,For any reason,10.5,0.7,,0,
+2,Reduced access to prescription drugs or medications,Education,Some college,,Due to pandemic,3.9,0.6,,0,
+2,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,2630,Total,,,,,
+2,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,,For any reason,6.9,0.6,,1,
+2,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,,Due to pandemic,1.9,0.3,,0,
+2,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,5290,Total,,,,,
+2,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,,For any reason,10.1,0.7,,0,
+2,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,,Due to pandemic,3,0.4,,0,
+2,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,656,Total,,,,,
+2,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,,For any reason,10,1.7,,0,
+2,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,,Due to pandemic,1.9,0.8,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,3633,Total,,,,,
+2,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,,For any reason,12.5,0.8,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,,Due to pandemic,3.9,0.5,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,687,Total,,,,,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,,For any reason,18.6,2.5,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,,Due to pandemic,6.6,1.8,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,2179,Total,,,,,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,,For any reason,14.1,1,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,,Due to pandemic,4.3,0.8,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,617,Total,,,,,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,,For any reason,18,1.8,,0,
+2,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,,Due to pandemic,5.8,1,,0,
+3,Reduced access to prescription drugs or medications,Total,Total,5435,Total,,,,,
+3,Reduced access to prescription drugs or medications,Total,Total,,For any reason,10.8,0.7,,0,0
+3,Reduced access to prescription drugs or medications,Total,Total,,Due to pandemic,2.3,0.3,,0,0
+3,Reduced access to prescription drugs or medications,Age group,18-44 years,1966,Total,,,,,
+3,Reduced access to prescription drugs or medications,Age group,18-44 years,,For any reason,12.1,1.2,,0,0
+3,Reduced access to prescription drugs or medications,Age group,18-44 years,,Due to pandemic,3.1,0.6,,0,0
+3,Reduced access to prescription drugs or medications,Age group,45-64 years,1732,Total,,,,,
+3,Reduced access to prescription drugs or medications,Age group,45-64 years,,For any reason,11.1,1.1,,0,0
+3,Reduced access to prescription drugs or medications,Age group,45-64 years,,Due to pandemic,2.1,0.5,,0,0
+3,Reduced access to prescription drugs or medications,Age group,65 years and over,1737,Total,,,,,
+3,Reduced access to prescription drugs or medications,Age group,65 years and over,,For any reason,7.4,0.7,,1,0
+3,Reduced access to prescription drugs or medications,Age group,65 years and over,,Due to pandemic,0.8,0.3,,0,0
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,3466,Total,,,,,
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,,For any reason,9,0.9,,0,0
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,1.5,0.3,,1,0
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,761,Total,,,,,
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,,For any reason,19.6,2.5,,0,0
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,,,*,,
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,391,Total,,,,,
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,,For any reason,9,1.9,,0,0
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,,,*,,
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,817,Total,,,,,
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,,For any reason,12.2,1.5,,0,0
+3,Reduced access to prescription drugs or medications,Race/Hispanic origin,Hispanic,,Due to pandemic,3.2,0.8,,0,0
+3,Reduced access to prescription drugs or medications,Sex,Male,2451,Total,,,,,
+3,Reduced access to prescription drugs or medications,Sex,Male,,For any reason,9.7,0.9,,0,0
+3,Reduced access to prescription drugs or medications,Sex,Male,,Due to pandemic,1.6,0.3,,0,0
+3,Reduced access to prescription drugs or medications,Sex,Female,2984,Total,,,,,
+3,Reduced access to prescription drugs or medications,Sex,Female,,For any reason,11.8,1,,0,0
+3,Reduced access to prescription drugs or medications,Sex,Female,,Due to pandemic,2.9,0.6,,0,0
+3,Reduced access to prescription drugs or medications,Education,High school graduate or less,1277,Total,,,,,
+3,Reduced access to prescription drugs or medications,Education,High school graduate or less,,For any reason,12.2,1.2,,0,0
+3,Reduced access to prescription drugs or medications,Education,High school graduate or less,,Due to pandemic,2.5,0.6,,0,0
+3,Reduced access to prescription drugs or medications,Education,Some college,2573,Total,,,,,
+3,Reduced access to prescription drugs or medications,Education,Some college,,For any reason,11.2,1,,0,0
+3,Reduced access to prescription drugs or medications,Education,Some college,,Due to pandemic,2.7,0.4,,0,0
+3,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,1585,Total,,,,,
+3,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,,For any reason,8.3,1,,0,0
+3,Reduced access to prescription drugs or medications,Education,Bachelor's degree or above,,Due to pandemic,1.6,0.6,,0,0
+3,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,4604,Total,,,,,
+3,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,,For any reason,11,0.8,,0,0
+3,Reduced access to prescription drugs or medications,Urbanization,Metropolitan,,Due to pandemic,2.3,0.4,,0,0
+3,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,831,Total,,,,,
+3,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,,For any reason,9.5,1.5,,1,0
+3,Reduced access to prescription drugs or medications,Urbanization,Non-Metropolitan,,Due to pandemic,2,0.7,,1,0
+3,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,3406,Total,,,,,
+3,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,,For any reason,12.8,1,,0,0
+3,Reduced access to prescription drugs or medications,Chronic conditions,One or more chronic conditions,,Due to pandemic,2.2,0.4,,1,1
+3,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,739,Total,,,,,
+3,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,,For any reason,17.6,2.2,,0,0
+3,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed diabetes,,Due to pandemic,,,*,,
+3,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,2099,Total,,,,,
+3,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,,For any reason,13,1.3,,0,0
+3,Reduced access to prescription drugs or medications,Chronic conditions,Diagnosed hypertension,,Due to pandemic,2.1,0.4,,1,1
+3,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,563,Total,,,,,
+3,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,,For any reason,15.5,2.7,,0,0
+3,Reduced access to prescription drugs or medications,Chronic conditions,Current asthma,,Due to pandemic,4.3,1.3,,1,0
+1,Reduced access to dental care,Total,Total,6749,Total,,,,,
+1,Reduced access to dental care,Total,Total,,For any reason,28.4,1,,,
+1,Reduced access to dental care,Total,Total,,Due to pandemic,25.3,0.9,,,
+1,Reduced access to dental care,Age group,18-44 years,2600,Total,,,,,
+1,Reduced access to dental care,Age group,18-44 years,,For any reason,27.7,1.3,,,
+1,Reduced access to dental care,Age group,18-44 years,,Due to pandemic,24.4,1.2,,,
+1,Reduced access to dental care,Age group,45-64 years,2361,Total,,,,,
+1,Reduced access to dental care,Age group,45-64 years,,For any reason,31,1.5,,,
+1,Reduced access to dental care,Age group,45-64 years,,Due to pandemic,28.1,1.4,,,
+1,Reduced access to dental care,Age group,65 years and over,1788,Total,,,,,
+1,Reduced access to dental care,Age group,65 years and over,,For any reason,25.6,1.5,,,
+1,Reduced access to dental care,Age group,65 years and over,,Due to pandemic,22.9,1.5,,,
+1,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,4477,Total,,,,,
+1,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,,For any reason,30.6,1.1,,,
+1,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,27.9,1.1,,,
+1,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,808,Total,,,,,
+1,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,,For any reason,23.1,2.1,,,
+1,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,18.1,1.7,,,
+1,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,526,Total,,,,,
+1,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,,For any reason,25.1,2.4,,,
+1,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,22.6,2.6,,,
+1,Reduced access to dental care,Race/Hispanic origin,Hispanic,938,Total,,,,,
+1,Reduced access to dental care,Race/Hispanic origin,Hispanic,,For any reason,25.3,2,,,
+1,Reduced access to dental care,Race/Hispanic origin,Hispanic,,Due to pandemic,21.9,1.8,,,
+1,Reduced access to dental care,Sex,Male,2948,Total,,,,,
+1,Reduced access to dental care,Sex,Male,,For any reason,26,1.4,,,
+1,Reduced access to dental care,Sex,Male,,Due to pandemic,22.8,1.3,,,
+1,Reduced access to dental care,Sex,Female,3801,Total,,,,,
+1,Reduced access to dental care,Sex,Female,,For any reason,30.6,1.1,,,
+1,Reduced access to dental care,Sex,Female,,Due to pandemic,27.7,1,,,
+1,Reduced access to dental care,Education,High school graduate or less,1285,Total,,,,,
+1,Reduced access to dental care,Education,High school graduate or less,,For any reason,23.5,1.5,,,
+1,Reduced access to dental care,Education,High school graduate or less,,Due to pandemic,20,1.3,,,
+1,Reduced access to dental care,Education,Some college,,Due to pandemic,23.7,1.2,,,
+1,Reduced access to dental care,Education,Bachelor's degree or above,2932,Total,,,,,
+1,Reduced access to dental care,Education,Bachelor's degree or above,,For any reason,34.9,1.1,,,
+1,Reduced access to dental care,Education,Bachelor's degree or above,,Due to pandemic,32.6,1.1,,,
+1,Reduced access to dental care,Urbanization,Metropolitan,6023,Total,,,,,
+1,Reduced access to dental care,Urbanization,Metropolitan,,For any reason,28.6,0.9,,,
+1,Reduced access to dental care,Urbanization,Metropolitan,,Due to pandemic,25.5,0.8,,,
+1,Reduced access to dental care,Urbanization,Non-Metropolitan,726,Total,,,,,
+1,Reduced access to dental care,Urbanization,Non-Metropolitan,,For any reason,26.8,4.4,,,
+1,Reduced access to dental care,Urbanization,Non-Metropolitan,,Due to pandemic,23.9,4.2,,,
+1,Reduced access to dental care,Chronic conditions,One or more chronic conditions,4054,Total,,,,,
+1,Reduced access to dental care,Chronic conditions,One or more chronic conditions,,For any reason,29.8,1,,,
+1,Reduced access to dental care,Chronic conditions,One or more chronic conditions,,Due to pandemic,26.3,1,,,
+1,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,765,Total,,,,,
+1,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,,For any reason,27.6,2.2,,,
+1,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,23,1.9,,,
+1,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,2410,Total,,,,,
+1,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,,For any reason,30,1.4,,,
+1,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,25.7,1.3,,,
+1,Reduced access to dental care,Chronic conditions,Current asthma,694,Total,,,,,
+1,Reduced access to dental care,Chronic conditions,Current asthma,,For any reason,31.2,2.4,,,
+1,Reduced access to dental care,Chronic conditions,Current asthma,,Due to pandemic,26.7,2.1,,,
+2,Reduced access to dental care,Total,Total,5936,Total,,,,,
+2,Reduced access to dental care,Total,Total,,For any reason,22.6,0.7,,1,
+2,Reduced access to dental care,Total,Total,,Due to pandemic,18.1,0.6,,1,
+2,Reduced access to dental care,Age group,18-44 years,2202,Total,,,,,
+2,Reduced access to dental care,Age group,18-44 years,,For any reason,24.4,1.2,,1,
+2,Reduced access to dental care,Age group,18-44 years,,Due to pandemic,19.1,1.1,,1,
+2,Reduced access to dental care,Age group,45-64 years,2064,Total,,,,,
+2,Reduced access to dental care,Age group,45-64 years,,For any reason,22.2,1.1,,1,
+2,Reduced access to dental care,Age group,45-64 years,,Due to pandemic,18,1,,1,
+2,Reduced access to dental care,Age group,65 years and over,1670,Total,,,,,
+2,Reduced access to dental care,Age group,65 years and over,,For any reason,19.3,1.4,,1,
+2,Reduced access to dental care,Age group,65 years and over,,Due to pandemic,15.8,1.2,,1,
+2,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,4054,Total,,,,,
+2,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,,For any reason,21.5,0.9,,1,
+2,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,17.9,0.8,,1,
+2,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,682,Total,,,,,
+2,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,,For any reason,21.7,2.1,,0,
+2,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,15.3,2.2,,0,
+2,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,457,Total,,,,,
+2,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,,For any reason,30.1,3.7,,0,
+2,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,24.2,3.4,,0,
+2,Reduced access to dental care,Race/Hispanic origin,Hispanic,743,Total,,,,,
+2,Reduced access to dental care,Race/Hispanic origin,Hispanic,,For any reason,24.5,1.8,,0,
+2,Reduced access to dental care,Race/Hispanic origin,Hispanic,,Due to pandemic,17.9,1.7,,0,
+2,Reduced access to dental care,Sex,Male,2575,Total,,,,,
+2,Reduced access to dental care,Sex,Male,,For any reason,21.6,1,,1,
+2,Reduced access to dental care,Sex,Male,,Due to pandemic,16.5,1,,1,
+2,Reduced access to dental care,Sex,Female,3361,Total,,,,,
+2,Reduced access to dental care,Sex,Female,,For any reason,23.6,1.1,,1,
+2,Reduced access to dental care,Sex,Female,,Due to pandemic,19.6,0.9,,1,
+2,Reduced access to dental care,Education,High school graduate or less,1093,Total,,,,,
+2,Reduced access to dental care,Education,High school graduate or less,,For any reason,20.7,1.4,,0,
+2,Reduced access to dental care,Education,High school graduate or less,,Due to pandemic,14.7,1.4,,1,
+2,Reduced access to dental care,Education,Some college,2212,Total,,,,,
+2,Reduced access to dental care,Education,Some college,,For any reason,22.9,1.1,,1,
+2,Reduced access to dental care,Education,Some college,,Due to pandemic,18.3,1,,1,
+2,Reduced access to dental care,Education,Bachelor's degree or above,2631,Total,,,,,
+2,Reduced access to dental care,Education,Bachelor's degree or above,,For any reason,24.5,0.9,,1,
+2,Reduced access to dental care,Education,Bachelor's degree or above,,Due to pandemic,21.4,0.8,,1,
+2,Reduced access to dental care,Urbanization,Metropolitan,5282,Total,,,,,
+2,Reduced access to dental care,Urbanization,Metropolitan,,For any reason,23.1,0.8,,1,
+2,Reduced access to dental care,Urbanization,Metropolitan,,Due to pandemic,18.5,0.7,,1,
+2,Reduced access to dental care,Urbanization,Non-Metropolitan,654,Total,,,,,
+2,Reduced access to dental care,Urbanization,Non-Metropolitan,,For any reason,19.1,1.9,,0,
+2,Reduced access to dental care,Urbanization,Non-Metropolitan,,Due to pandemic,14.7,1.6,,1,
+2,Reduced access to dental care,Chronic conditions,One or more chronic conditions,3623,Total,,,,,
+2,Reduced access to dental care,Chronic conditions,One or more chronic conditions,,For any reason,23.2,0.8,,1,
+2,Reduced access to dental care,Chronic conditions,One or more chronic conditions,,Due to pandemic,18.8,0.8,,1,
+2,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,685,Total,,,,,
+2,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,,For any reason,23.9,2,,0,
+2,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,17.8,1.9,,1,
+2,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,2174,Total,,,,,
+2,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,,For any reason,22.3,1.1,,1,
+2,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,17.4,1,,1,
+2,Reduced access to dental care,Chronic conditions,Current asthma,614,Total,,,,,
+2,Reduced access to dental care,Chronic conditions,Current asthma,,For any reason,27,2.8,,0,
+2,Reduced access to dental care,Chronic conditions,Current asthma,,Due to pandemic,21.8,2.6,,0,
+3,Reduced access to dental care,Total,Total,5426,Total,,,,,
+3,Reduced access to dental care,Total,Total,,For any reason,14,0.6,,1,1
+3,Reduced access to dental care,Total,Total,,Due to pandemic,6.2,0.5,,1,1
+3,Reduced access to dental care,Age group,18-44 years,1970,Total,,,,,
+3,Reduced access to dental care,Age group,18-44 years,,For any reason,16.8,1.3,,1,1
+3,Reduced access to dental care,Age group,18-44 years,,Due to pandemic,7.5,0.7,,1,1
+3,Reduced access to dental care,Age group,45-64 years,1727,Total,,,,,
+3,Reduced access to dental care,Age group,45-64 years,,For any reason,12.7,1,,1,1
+3,Reduced access to dental care,Age group,45-64 years,,Due to pandemic,5.5,0.8,,1,1
+3,Reduced access to dental care,Age group,65 years and over,1729,Total,,,,,
+3,Reduced access to dental care,Age group,65 years and over,,For any reason,10.2,1.1,,1,1
+3,Reduced access to dental care,Age group,65 years and over,,Due to pandemic,4.7,0.8,,1,1
+3,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,3457,Total,,,,,
+3,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,,For any reason,12.3,0.9,,1,1
+3,Reduced access to dental care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,5.9,0.6,,1,1
+3,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,761,Total,,,,,
+3,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,,For any reason,20.6,2.1,,0,0
+3,Reduced access to dental care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,7.5,1.4,,1,1
+3,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,390,Total,,,,,
+3,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,,For any reason,16.4,3,,1,1
+3,Reduced access to dental care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,,,*,,
+3,Reduced access to dental care,Race/Hispanic origin,Hispanic,818,Total,,,,,
+3,Reduced access to dental care,Race/Hispanic origin,Hispanic,,For any reason,14.8,1.7,,1,1
+3,Reduced access to dental care,Race/Hispanic origin,Hispanic,,Due to pandemic,6.7,1.1,,1,1
+3,Reduced access to dental care,Sex,Male,2449,Total,,,,,
+3,Reduced access to dental care,Sex,Male,,For any reason,12.8,0.9,,1,1
+3,Reduced access to dental care,Sex,Male,,Due to pandemic,5.6,0.6,,1,1
+3,Reduced access to dental care,Sex,Female,2977,Total,,,,,
+3,Reduced access to dental care,Sex,Female,,For any reason,15.2,1.1,,1,1
+3,Reduced access to dental care,Sex,Female,,Due to pandemic,6.8,0.8,,1,1
+3,Reduced access to dental care,Education,High school graduate or less,1268,Total,,,,,
+3,Reduced access to dental care,Education,High school graduate or less,,For any reason,13.5,1.2,,1,1
+3,Reduced access to dental care,Education,High school graduate or less,,Due to pandemic,4.9,0.7,,1,1
+3,Reduced access to dental care,Education,Some college,2571,Total,,,,,
+3,Reduced access to dental care,Education,Some college,,For any reason,15.4,1.1,,1,1
+3,Reduced access to dental care,Education,Some college,,Due to pandemic,7.5,0.9,,1,1
+3,Reduced access to dental care,Education,Bachelor's degree or above,1587,Total,,,,,
+3,Reduced access to dental care,Education,Bachelor's degree or above,,For any reason,13.3,1.2,,1,1
+3,Reduced access to dental care,Education,Bachelor's degree or above,,Due to pandemic,6.7,0.8,,1,1
+3,Reduced access to dental care,Urbanization,Metropolitan,4595,Total,,,,,
+3,Reduced access to dental care,Urbanization,Metropolitan,,For any reason,14.2,0.7,,1,1
+3,Reduced access to dental care,Urbanization,Metropolitan,,Due to pandemic,6.4,0.5,,1,1
+3,Reduced access to dental care,Urbanization,Non-Metropolitan,831,Total,,,,,
+3,Reduced access to dental care,Urbanization,Non-Metropolitan,,For any reason,13.1,1.4,,1,1
+3,Reduced access to dental care,Urbanization,Non-Metropolitan,,Due to pandemic,5.2,1.3,,1,1
+3,Reduced access to dental care,Chronic conditions,One or more chronic conditions,3395,Total,,,,,
+3,Reduced access to dental care,Chronic conditions,One or more chronic conditions,,For any reason,15,0.9,,1,1
+3,Reduced access to dental care,Chronic conditions,One or more chronic conditions,,Due to pandemic,6.5,0.6,,1,1
+3,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,735,Total,,,,,
+3,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,,For any reason,16.1,2,,1,1
+3,Reduced access to dental care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,6.3,1.2,,1,1
+3,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,2090,Total,,,,,
+3,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,,For any reason,14.7,1.1,,1,1
+3,Reduced access to dental care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,7,0.8,,1,1
+3,Reduced access to dental care,Chronic conditions,Current asthma,561,Total,,,,,
+3,Reduced access to dental care,Chronic conditions,Current asthma,,For any reason,22.3,2.3,,1,0
+3,Reduced access to dental care,Chronic conditions,Current asthma,,Due to pandemic,10.3,1.4,,1,1
+1,Reduced access to vision care,Total,Total,6720,Total,,,,,
+1,Reduced access to vision care,Total,Total,,For any reason,15.6,0.6,,,
+1,Reduced access to vision care,Total,Total,,Due to pandemic,12.8,0.6,,,
+1,Reduced access to vision care,Age group,18-44 years,2595,Total,,,,,
+1,Reduced access to vision care,Age group,18-44 years,,For any reason,13.6,1,,,
+1,Reduced access to vision care,Age group,18-44 years,,Due to pandemic,10.9,0.9,,,
+1,Reduced access to vision care,Age group,45-64 years,2347,Total,,,,,
+1,Reduced access to vision care,Age group,45-64 years,,For any reason,18.6,0.7,,,
+1,Reduced access to vision care,Age group,45-64 years,,Due to pandemic,15.4,0.7,,,
+1,Reduced access to vision care,Age group,65 years and over,1778,Total,,,,,
+1,Reduced access to vision care,Age group,65 years and over,,For any reason,15.4,1.3,,,
+1,Reduced access to vision care,Age group,65 years and over,,Due to pandemic,13,1.4,,,
+1,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,4460,Total,,,,,
+1,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,,For any reason,15.8,0.8,,,
+1,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,13.7,0.7,,,
+1,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,804,Total,,,,,
+1,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,,For any reason,16.1,1.5,,,
+1,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,10.5,1.2,,,
+1,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,524,Total,,,,,
+1,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,,For any reason,14.1,1.5,,,
+1,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,11.1,1.5,,,
+1,Reduced access to vision care,Race/Hispanic origin,Hispanic,932,Total,,,,,
+1,Reduced access to vision care,Race/Hispanic origin,Hispanic,,For any reason,15.6,1.3,,,
+1,Reduced access to vision care,Race/Hispanic origin,Hispanic,,Due to pandemic,11.8,1.2,,,
+1,Reduced access to vision care,Sex,Male,2930,Total,,,,,
+1,Reduced access to vision care,Sex,Male,,For any reason,13.7,0.7,,,
+1,Reduced access to vision care,Sex,Male,,Due to pandemic,11,0.6,,,
+1,Reduced access to vision care,Sex,Female,3790,Total,,,,,
+1,Reduced access to vision care,Sex,Female,,For any reason,17.5,0.8,,,
+1,Reduced access to vision care,Sex,Female,,Due to pandemic,14.5,0.7,,,
+1,Reduced access to vision care,Education,High school graduate or less,1280,Total,,,,,
+1,Reduced access to vision care,Education,High school graduate or less,,For any reason,14.1,1,,,
+1,Reduced access to vision care,Education,High school graduate or less,,Due to pandemic,11,0.9,,,
+1,Reduced access to vision care,Education,Some college,2521,Total,,,,,
+1,Reduced access to vision care,Education,Some college,,For any reason,16.3,1,,,
+1,Reduced access to vision care,Education,Some college,,Due to pandemic,12.8,0.8,,,
+1,Reduced access to vision care,Education,Bachelor's degree or above,2919,Total,,,,,
+1,Reduced access to vision care,Education,Bachelor's degree or above,,For any reason,16.7,0.9,,,
+1,Reduced access to vision care,Education,Bachelor's degree or above,,Due to pandemic,14.7,0.9,,,
+1,Reduced access to vision care,Urbanization,Metropolitan,5991,Total,,,,,
+1,Reduced access to vision care,Urbanization,Metropolitan,,For any reason,15.3,0.5,,,
+1,Reduced access to vision care,Urbanization,Metropolitan,,Due to pandemic,12.7,0.5,,,
+1,Reduced access to vision care,Urbanization,Non-Metropolitan,729,Total,,,,,
+1,Reduced access to vision care,Urbanization,Non-Metropolitan,,For any reason,18.1,2.6,,,
+1,Reduced access to vision care,Urbanization,Non-Metropolitan,,Due to pandemic,13.7,2.5,,,
+1,Reduced access to vision care,Chronic conditions,One or more chronic conditions,4033,Total,,,,,
+1,Reduced access to vision care,Chronic conditions,One or more chronic conditions,,For any reason,18.3,0.9,,,
+1,Reduced access to vision care,Chronic conditions,One or more chronic conditions,,Due to pandemic,14.6,0.9,,,
+1,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,758,Total,,,,,
+1,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,,For any reason,22.6,2.3,,,
+1,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,16.4,2.1,,,
+1,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,2388,Total,,,,,
+1,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,,For any reason,19.2,1.2,,,
+1,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,15.2,1.2,,,
+1,Reduced access to vision care,Chronic conditions,Current asthma,690,Total,,,,,
+1,Reduced access to vision care,Chronic conditions,Current asthma,,For any reason,22.2,2.3,,,
+1,Reduced access to vision care,Chronic conditions,Current asthma,,Due to pandemic,15.8,2.1,,,
+2,Reduced access to vision care,Total,Total,5926,Total,,,,,
+2,Reduced access to vision care,Total,Total,,For any reason,12.5,0.6,,1,
+2,Reduced access to vision care,Total,Total,,Due to pandemic,8.9,0.4,,1,
+2,Reduced access to vision care,Age group,18-44 years,2199,Total,,,,,
+2,Reduced access to vision care,Age group,18-44 years,,For any reason,11.9,0.9,,0,
+2,Reduced access to vision care,Age group,18-44 years,,Due to pandemic,8.1,0.6,,1,
+2,Reduced access to vision care,Age group,45-64 years,2062,Total,,,,,
+2,Reduced access to vision care,Age group,45-64 years,,For any reason,14.1,1.2,,1,
+2,Reduced access to vision care,Age group,45-64 years,,Due to pandemic,10.4,0.9,,1,
+2,Reduced access to vision care,Age group,65 years and over,1665,Total,,,,,
+2,Reduced access to vision care,Age group,65 years and over,,For any reason,11.3,0.9,,1,
+2,Reduced access to vision care,Age group,65 years and over,,Due to pandemic,8.3,0.7,,1,
+2,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,4041,Total,,,,,
+2,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,,For any reason,11.1,0.6,,1,
+2,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,8.3,0.5,,1,
+2,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,680,Total,,,,,
+2,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,,For any reason,15.1,2.1,,0,
+2,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,9.4,1.6,,0,
+2,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,459,Total,,,,,
+2,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,,For any reason,14.3,2.3,,0,
+2,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,11,2.1,,0,
+2,Reduced access to vision care,Race/Hispanic origin,Hispanic,746,Total,,,,,
+2,Reduced access to vision care,Race/Hispanic origin,Hispanic,,For any reason,15.3,1.6,,0,
+2,Reduced access to vision care,Race/Hispanic origin,Hispanic,,Due to pandemic,9.8,1.2,,0,
+2,Reduced access to vision care,Sex,Male,2565,Total,,,,,
+2,Reduced access to vision care,Sex,Male,,For any reason,12.6,0.8,,0,
+2,Reduced access to vision care,Sex,Male,,Due to pandemic,8.9,0.5,,1,
+2,Reduced access to vision care,Sex,Female,3361,Total,,,,,
+2,Reduced access to vision care,Sex,Female,,For any reason,12.4,0.8,,1,
+2,Reduced access to vision care,Sex,Female,,Due to pandemic,8.9,0.7,,1,
+2,Reduced access to vision care,Education,High school graduate or less,1092,Total,,,,,
+2,Reduced access to vision care,Education,High school graduate or less,,For any reason,11.1,1.4,,1,
+2,Reduced access to vision care,Education,High school graduate or less,,Due to pandemic,6.1,0.7,,1,
+2,Reduced access to vision care,Education,Some college,2213,Total,,,,,
+2,Reduced access to vision care,Education,Some college,,For any reason,14.7,1.2,,0,
+2,Reduced access to vision care,Education,Some college,,Due to pandemic,10.8,1.1,,0,
+2,Reduced access to vision care,Education,Bachelor's degree or above,2621,Total,,,,,
+2,Reduced access to vision care,Education,Bachelor's degree or above,,For any reason,12,0.8,,1,
+2,Reduced access to vision care,Education,Bachelor's degree or above,,Due to pandemic,10.2,0.7,,1,
+2,Reduced access to vision care,Urbanization,Metropolitan,5275,Total,,,,,
+2,Reduced access to vision care,Urbanization,Metropolitan,,For any reason,12.4,0.7,,1,
+2,Reduced access to vision care,Urbanization,Metropolitan,,Due to pandemic,8.9,0.5,,1,
+2,Reduced access to vision care,Urbanization,Non-Metropolitan,651,Total,,,,,
+2,Reduced access to vision care,Urbanization,Non-Metropolitan,,For any reason,13.2,1.5,,0,
+2,Reduced access to vision care,Urbanization,Non-Metropolitan,,Due to pandemic,8.8,1.3,,0,
+2,Reduced access to vision care,Chronic conditions,One or more chronic conditions,3615,Total,,,,,
+2,Reduced access to vision care,Chronic conditions,One or more chronic conditions,,For any reason,15.1,0.9,,1,
+2,Reduced access to vision care,Chronic conditions,One or more chronic conditions,,Due to pandemic,11,0.7,,1,
+2,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,685,Total,,,,,
+2,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,,For any reason,21.3,1.9,,0,
+2,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,13.2,1.8,,0,
+2,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,2167,Total,,,,,
+2,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,,For any reason,15.4,1.1,,1,
+2,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,10.8,0.9,,1,
+2,Reduced access to vision care,Chronic conditions,Current asthma,617,Total,,,,,
+2,Reduced access to vision care,Chronic conditions,Current asthma,,For any reason,19.6,2.6,,0,
+2,Reduced access to vision care,Chronic conditions,Current asthma,,Due to pandemic,13.4,2,,0,
+3,Reduced access to vision care,Total,Total,5425,Total,,,,,
+3,Reduced access to vision care,Total,Total,,For any reason,9,0.6,,1,1
+3,Reduced access to vision care,Total,Total,,Due to pandemic,3.2,0.4,,1,1
+3,Reduced access to vision care,Age group,18-44 years,1967,Total,,,,,
+3,Reduced access to vision care,Age group,18-44 years,,For any reason,10.6,1,,1,0
+3,Reduced access to vision care,Age group,18-44 years,,Due to pandemic,3.7,0.6,,1,1
+3,Reduced access to vision care,Age group,45-64 years,1725,Total,,,,,
+3,Reduced access to vision care,Age group,45-64 years,,For any reason,8.7,0.8,,1,1
+3,Reduced access to vision care,Age group,45-64 years,,Due to pandemic,2.9,0.5,,1,1
+3,Reduced access to vision care,Age group,65 years and over,1733,Total,,,,,
+3,Reduced access to vision care,Age group,65 years and over,,For any reason,6,1,,1,1
+3,Reduced access to vision care,Age group,65 years and over,,Due to pandemic,2.5,0.7,,1,1
+3,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,3456,Total,,,,,
+3,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,,For any reason,6.7,0.6,,1,1
+3,Reduced access to vision care,Race/Hispanic origin,White non-Hispanic,,Due to pandemic,2.2,0.3,,1,1
+3,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,760,Total,,,,,
+3,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,,For any reason,14.5,2.1,,0,0
+3,Reduced access to vision care,Race/Hispanic origin,Black non-Hispanic,,Due to pandemic,,,*,,
+3,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,392,Total,,,,,
+3,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,,For any reason,8.9,2.2,,1,0
+3,Reduced access to vision care,Race/Hispanic origin,Other non-Hispanic,,Due to pandemic,2.6,1,,1,1
+3,Reduced access to vision care,Race/Hispanic origin,Hispanic,817,Total,,,,,
+3,Reduced access to vision care,Race/Hispanic origin,Hispanic,,For any reason,13.9,1.7,,0,0
+3,Reduced access to vision care,Race/Hispanic origin,Hispanic,,Due to pandemic,6.1,1.1,,1,1
+3,Reduced access to vision care,Sex,Male,2448,Total,,,,,
+3,Reduced access to vision care,Sex,Male,,For any reason,8.4,0.8,,1,1
+3,Reduced access to vision care,Sex,Male,,Due to pandemic,2.6,0.3,,1,1
+3,Reduced access to vision care,Sex,Female,2977,Total,,,,,
+3,Reduced access to vision care,Sex,Female,,For any reason,9.6,0.9,,1,1
+3,Reduced access to vision care,Sex,Female,,Due to pandemic,3.6,0.6,,1,1
+3,Reduced access to vision care,Education,High school graduate or less,1273,Total,,,,,
+3,Reduced access to vision care,Education,High school graduate or less,,For any reason,9.9,1.1,,1,0
+3,Reduced access to vision care,Education,High school graduate or less,,Due to pandemic,3.3,0.7,,1,1
+3,Reduced access to vision care,Education,Some college,2568,Total,,,,,
+3,Reduced access to vision care,Education,Some college,,For any reason,10.2,0.7,,1,1
+3,Reduced access to vision care,Education,Some college,,Due to pandemic,3.6,0.6,,1,1
+3,Reduced access to vision care,Education,Bachelor's degree or above,1584,Total,,,,,
+3,Reduced access to vision care,Education,Bachelor's degree or above,,For any reason,6.7,0.9,,1,1
+3,Reduced access to vision care,Education,Bachelor's degree or above,,Due to pandemic,2.5,0.5,,1,1
+3,Reduced access to vision care,Urbanization,Metropolitan,4596,Total,,,,,
+3,Reduced access to vision care,Urbanization,Metropolitan,,For any reason,9.1,0.7,,1,1
+3,Reduced access to vision care,Urbanization,Metropolitan,,Due to pandemic,3.3,0.4,,1,1
+3,Reduced access to vision care,Urbanization,Non-Metropolitan,829,Total,,,,,
+3,Reduced access to vision care,Urbanization,Non-Metropolitan,,For any reason,8.8,1.1,,1,1
+3,Reduced access to vision care,Urbanization,Non-Metropolitan,,Due to pandemic,2.1,0.7,,1,1
+3,Reduced access to vision care,Chronic conditions,One or more chronic conditions,3398,Total,,,,,
+3,Reduced access to vision care,Chronic conditions,One or more chronic conditions,,For any reason,8.3,0.6,,1,1
+3,Reduced access to vision care,Chronic conditions,One or more chronic conditions,,Due to pandemic,3.2,0.4,,1,1
+3,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,738,Total,,,,,
+3,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,,For any reason,12.2,1.7,,1,1
+3,Reduced access to vision care,Chronic conditions,Diagnosed diabetes,,Due to pandemic,4.3,1,,1,1
+3,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,2092,Total,,,,,
+3,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,,For any reason,9.4,0.9,,1,1
+3,Reduced access to vision care,Chronic conditions,Diagnosed hypertension,,Due to pandemic,3.3,0.6,,1,1
+3,Reduced access to vision care,Chronic conditions,Current asthma,562,Total,,,,,
+3,Reduced access to vision care,Chronic conditions,Current asthma,,For any reason,9.6,1.2,,1,1
+3,Reduced access to vision care,Chronic conditions,Current asthma,,Due to pandemic,4.4,0.8,,1,1
