@@ -45,7 +45,6 @@ public class OptionalsTest extends Setup {
                 .orElseThrow(IllegalStateException::new);
     }
     // ifPresent()
-    // ifPresentOrElse()
     @Test
     public void shouldBePresent() {
         shops.stream()
@@ -55,5 +54,18 @@ public class OptionalsTest extends Setup {
                 .ifPresent(shopName -> {
                     Assert.assertEquals(shopName, "Waldo's Magical Stuff");
                 });
+    }
+    // ifPresentOrElse()
+    @Test
+    public void shouldBePresentOrElse() {
+        shops.stream()
+                .filter(shops -> shops.getName().startsWith("x"))
+                .findFirst()
+                .ifPresentOrElse(shop -> {
+                    System.out.println(shop.getName());
+                }, () -> {
+                    System.out.println("Running else");
+                });
+
     }
 }
