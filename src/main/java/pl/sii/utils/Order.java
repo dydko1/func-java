@@ -15,6 +15,10 @@ public class Order {
         this.orderedItems = orderedItems;
     }
 
+    public static List<Order> nullOrderList() {
+        return List.of(new Order(UUID.randomUUID(), Customer.nullCustomer(), LineItem.nullLineItemList()));
+    }
+
     public UUID getOrderId() {
         return orderId;
     }

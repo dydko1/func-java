@@ -11,6 +11,10 @@ public class Customer {
         this.email = email;
     }
 
+    public static Customer nullCustomer() {
+        return new Customer("Empty-name", "Empty-email");
+    }
+
     public String getName() {
         return name;
     }

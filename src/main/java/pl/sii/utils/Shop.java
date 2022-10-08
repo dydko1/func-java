@@ -16,6 +16,11 @@ public class Shop {
         this.orderList = orderList;
     }
 
+    public static Shop nullShop() {
+        System.out.println("Invoking null shop");
+        return new Shop("Empty", "Empty", Inventory.nullInventory(), Order.nullOrderList());
+    }
+
     public String getName() {
         return name;
     }

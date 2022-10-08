@@ -1,5 +1,7 @@
 package pl.sii.utils;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.Objects;
 
 public class Item {
@@ -11,6 +13,10 @@ public class Item {
         this.itemName = itemName;
         this.quantity = stock;
         this.price = price;
+    }
+
+    public static List<Item> nullItemList() {
+        return List.of(new Item("Empty", 0, 0.0));
     }
 
     public String getItemName() {

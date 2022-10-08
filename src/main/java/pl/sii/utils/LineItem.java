@@ -1,5 +1,6 @@
 package pl.sii.utils;
 
+import java.util.List;
 import java.util.Objects;
 
 public class LineItem {
@@ -9,6 +10,10 @@ public class LineItem {
     public LineItem(String name, int quantity) {
         this.name = name;
         this.quantity = quantity;
+    }
+
+    public static List<LineItem> nullLineItemList() {
+        return List.of(new LineItem("Empty-name", 0));
     }
 
     public String getName() {

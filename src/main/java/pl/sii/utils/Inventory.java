@@ -10,6 +10,10 @@ public class Inventory {
         this.itemList = itemList;
     }
 
+    public static Inventory nullInventory() {
+        return new Inventory(Item.nullItemList());
+    }
+
     public List<Item> getItemList() {
         return itemList;
     }
