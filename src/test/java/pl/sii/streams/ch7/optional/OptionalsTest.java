@@ -8,6 +8,21 @@ import pl.sii.utils.Shop;
 import java.util.Optional;
 
 public class OptionalsTest extends Setup {
+    // optional.of
+    @Test
+    public void shouldHaveOptionalValue() {
+        Optional<Shop> optionalFirstValue = shops.stream().findFirst();
+
+        if (optionalFirstValue.isPresent()) {
+            Shop properValue = optionalFirstValue.get();
+            System.out.println(properValue.getName());
+        }
+
+        if (optionalFirstValue.isEmpty()) {
+            System.out.println("Performing action on empty");
+        }
+    }
+
     // findFirst()
     @Test
     public void shouldFindFirst() {
