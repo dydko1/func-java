@@ -3,13 +3,11 @@ package pl.sii.streams.ch8.collecting;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pl.sii.streams.Setup;
+import pl.sii.utils.Customer;
 import pl.sii.utils.Order;
 import pl.sii.utils.Shop;
 
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Objects;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class CollectorsTest extends Setup {
@@ -36,6 +34,21 @@ public class CollectorsTest extends Setup {
         Assert.assertNotNull(concreteCollectionOfShopNames);
     }
     // Collectors.joining()
-    // Collectors.toMap()
     // Collectors.collectingAndThen()
+    @Test
+    public void shouldJoinString() {
+        String joinedString = shops.stream().flatMap(shop -> shop.getOrderList().stream().map(Order::getCustomer))
+                .map(Customer::getName)
+                .collect(Collectors.joining("/"));
+//                .collect(Collectors.collectingAndThen(Collectors.toSet(), strings -> strings.stream().collect(Collectors.joining("/"))));
+        System.out.println(joinedString);
+    }
+    // Collectors.toMap()
+    @Test
+    public void shouldCreateMap() {
+        Map<String, List<Order>> shopPerOrderList = shops.stream()
+                .collect(Collectors.toMap(Shop::getName, Shop::getOrderList));
+        Assert.assertTrue(shopPerOrderList.containsKey("Bed, Bath & Beyond"));
+        Assert.assertTrue(shopPerOrderList.get("Cool shop").size() > 0);
+    }
 }
