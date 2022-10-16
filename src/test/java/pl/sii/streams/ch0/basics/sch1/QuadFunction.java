@@ -1,4 +1,4 @@
-package pl.sii.streams.ch0.basics;
+package pl.sii.streams.ch0.basics.sch1;
 
 @FunctionalInterface
 public interface QuadFunction<PARAM1, PARAM2, PARAM3, PARAM4, RETURN_TYPE> {

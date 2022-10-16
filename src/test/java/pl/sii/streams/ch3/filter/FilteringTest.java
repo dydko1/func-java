@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
+// Filter -> apply a predicate to an element and return only elements that pass the test
 public class FilteringTest extends Setup {
 
     @Test

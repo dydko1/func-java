@@ -10,6 +10,7 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// Map -> Apply a function to each passing element, returning new element in the process
 public class MapTests extends Setup {
     @Test
     public void shopsShouldHaveNames() {
@@ -21,7 +22,8 @@ public class MapTests extends Setup {
         Assert.assertFalse(shopNames1.isEmpty());
 
         // vs
-        List<String> shopNames2 = shops.stream().map(s -> s.getName()).collect(Collectors.toList());
+        List<String> shopNames2 = shops.stream().map(s -> s.getName())
+                .collect(Collectors.toList());
         Assert.assertFalse(shopNames2.isEmpty());
     }
 
@@ -49,7 +51,6 @@ public class MapTests extends Setup {
         List<List<String>> l2 = List.of(l1);
         List<List<List<String>>> l3 = List.of(l2);
 
-        System.out.println("===Loop===");
         for (List<List<String>> l : l3) {
             if (l.size() > 0) {
                 for (List<String> innerL : l) {
@@ -62,7 +63,6 @@ public class MapTests extends Setup {
             }
         }
 
-        System.out.println("===Stream===");
         l3.stream()
                 .filter(lists -> lists.size() > 0)
                 .flatMap(Collection::stream)

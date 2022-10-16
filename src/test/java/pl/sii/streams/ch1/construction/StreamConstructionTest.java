@@ -17,6 +17,13 @@ public class StreamConstructionTest {
     }
 
     @Test
+    public void shouldCreateFromCollection() {
+        List<Integer> list = Arrays.asList(1, 2, 3, 4);
+        Stream<Integer> stream = list.stream();
+        Assert.assertNotNull(stream);
+    }
+
+    @Test
     public void shouldCreateStreamFromArray() {
         int[] arrOfNumbers = new int[] {4, 5, 6};
         List<Integer> listOfInts = Arrays.stream(arrOfNumbers, 0, arrOfNumbers.length)
