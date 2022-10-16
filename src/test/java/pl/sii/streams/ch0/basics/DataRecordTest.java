@@ -1,5 +1,6 @@
 package pl.sii.streams.ch0.basics;
 
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pl.sii.streams.DataRecord;
 import pl.sii.streams.Setup2;
@@ -9,6 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class DataRecordTest extends Setup2 {
@@ -48,5 +50,18 @@ public class DataRecordTest extends Setup2 {
 
         String joined = testData.stream().map(DataRecord::getGroup).collect(Collectors.joining("-"));
         System.out.println(joined);
+    }
+
+    @DataProvider
+    public static Object[][] provideFunctions() {
+        return new Object[][]{
+                new Object[]{(Function<DataRecord, String>) DataRecord::getSubgroup},
+                new Object[]{(Function<DataRecord, String>) DataRecord::getGroup}
+        };
+    }
+
+    @Test(dataProvider = "provideFunctions")
+    public void shouldExecuteParametrizedFunctions(Function<DataRecord, String> func) {
+
     }
 }

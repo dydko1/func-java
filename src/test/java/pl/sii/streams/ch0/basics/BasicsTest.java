@@ -13,15 +13,17 @@ import java.util.stream.Collectors;
  * 2. Explain what is functional and what are functional languages
  * 3. Expand on features make the language function
  * 4. Show java on a spectrum
- *   FP <---------------------------------------> OOP
- *   Haskel             Scala      Java post8     Java-pre8
+ *   FP <-------------------------------------------------------> OOP
+ *   Haskel             Scala      Java 8+     Java-pre8          Smalltalk
  *   F#
  *   Clojure
  * 5. Explain lambda based on functional interfaces
  * 6. Explain 4 basic interfaces Function Predicate Supplier Consumer
+ * 7. Explain how streams are possible and what are generics
  * Java 8 additions to language
  * 1. Lambda expressions
  * 2. Method references inside lambda expressions
+ * + others
  */
 public class BasicsTest {
     @Test
