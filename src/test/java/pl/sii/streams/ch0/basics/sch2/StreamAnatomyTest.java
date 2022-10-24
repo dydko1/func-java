@@ -1,4 +1,4 @@
-package pl.sii.streams.ch0.basics.sch3;
+package pl.sii.streams.ch0.basics.sch2;
 
 import org.testng.annotations.Test;
 import pl.sii.utils.Shop;

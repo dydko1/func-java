@@ -10,7 +10,6 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
-// Map -> Apply a function to each passing element, returning new element in the process
 public class MapTests extends Setup {
     @Test
     public void shopsShouldHaveNames() {

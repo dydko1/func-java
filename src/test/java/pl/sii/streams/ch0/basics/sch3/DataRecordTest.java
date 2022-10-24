@@ -1,4 +1,4 @@
-package pl.sii.streams.ch0.basics.sch2;
+package pl.sii.streams.ch0.basics.sch3;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;

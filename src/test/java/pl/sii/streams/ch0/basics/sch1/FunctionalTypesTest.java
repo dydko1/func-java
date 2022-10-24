@@ -112,11 +112,51 @@ public class FunctionalTypesTest extends Setup {
 
     @Test
     public void aMethodSHouldReturnLambda() {
-        String result = acceptIncomingFunction(gimmeFunc());
-        Assert.assertEquals(result, "Test-Test");
+        String result1 = acceptIncomingFunction(gimmeFunc());
+        Assert.assertEquals(result1, "Test-Test");
+        String result2 = acceptIncomingFunction(Function.identity());
+        Assert.assertEquals(result2, "Test");
     }
 
     private Function<String, String> gimmeFunc() {
         return val -> val + "-" + val;
+    }
+
+    // AndThen
+    @Test
+    public void shouldApplyAndThen() {
+        Function<String, Integer> func1 = s -> {
+            System.out.println("Calling func1");
+            return s.length() + 10;
+        };
+        Function<String, Integer> func2 = func1.andThen(number -> {
+            System.out.println("Calling func2");
+            return number + 200;
+        });
+        Integer result = func2.apply("James");
+        Assert.assertEquals(result, 215);
+        System.out.println(result);
+    }
+
+    // Compose
+    @Test
+    public void shouldCompose() {
+        Function<String, Integer> func1 = s -> {
+            System.out.println("Calling func1");
+            return s.length();
+        };
+        Function<Double, Integer> func2 = func1.compose(floatingPoint -> {
+            System.out.println("Calling func2");
+            return floatingPoint + "";
+        });
+        Integer result = func2.apply(10.0);
+        Assert.assertEquals(result, 4);
+    }
+
+    // Identity
+    @Test
+    public void shouldCallIdentity() {
+        Function<String, Integer> func = String::length;
+        Function<Object, Object> identity = Function.identity();
     }
 }
