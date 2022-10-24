@@ -40,7 +40,7 @@ public class CollectorsTest extends Setup {
         String joinedString = shops.stream().flatMap(shop -> shop.getOrderList().stream().map(Order::getCustomer))
                 .map(Customer::getName)
                 .collect(Collectors.joining("/"));
-//                .collect(Collectors.collectingAndThen(Collectors.toSet(), strings -> strings.stream().collect(Collectors.joining("/"))));
+//                .collect(Collectors.collectingAndThen(Collectors.toList(), strings -> String.join("/", strings)));
         System.out.println(joinedString);
     }
     // Collectors.toMap()

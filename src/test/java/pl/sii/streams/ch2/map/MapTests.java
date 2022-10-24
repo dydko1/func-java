@@ -5,9 +5,7 @@ import org.testng.annotations.Test;
 import pl.sii.streams.Setup;
 import pl.sii.utils.Shop;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class MapTests extends Setup {
@@ -64,10 +62,9 @@ public class MapTests extends Setup {
 
         l3.stream()
                 .filter(lists -> lists.size() > 0)
-                .flatMap(Collection::stream)
+                .flatMap(col -> col.stream())
                 .filter(list -> !list.isEmpty())
-                .flatMap(Collection::stream)
-                .forEach(System.out::println);
+                .flatMap(col -> col.stream())
+                .forEach(val -> System.out.println(val));
     }
-
 }

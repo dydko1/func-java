@@ -12,13 +12,18 @@ import java.util.stream.Stream;
 public class SimpleReductionTest extends Setup {
     // max()
     // min()
+    // average()
     @Test
     public void shouldReturnMaxValue() {
         List<Integer> intList = Stream.of(1, 2, 3, 4, 5, 6, 7, 8, 9).collect(Collectors.toList());
         Integer max = intList.stream().max(Comparator.naturalOrder()).get();
+        // alt -> intList.stream().mapToInt(i -> i).max().getAsInt();
         Integer min = intList.stream().min(Comparator.naturalOrder()).get();
+        // alt -> intList.stream().mapToInt(i -> i).min().getAsInt();
+        Double average = intList.stream().mapToInt(i -> i).average().getAsDouble();
         Assert.assertEquals(max, 9);
         Assert.assertEquals(min, 1);
+        Assert.assertEquals(average, 5.0);
     }
     // anyMatch()
     @Test

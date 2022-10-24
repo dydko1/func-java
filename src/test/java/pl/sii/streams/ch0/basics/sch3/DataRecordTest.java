@@ -29,7 +29,7 @@ public class DataRecordTest extends Setup2 {
             }
         }
 
-        // Group data set using streams
+        // Group dataset using streams
         Map<String, List<DataRecord>> groupedMap2 = testData.stream()
                 .collect(Collectors.groupingBy(DataRecord::getGroup));
 

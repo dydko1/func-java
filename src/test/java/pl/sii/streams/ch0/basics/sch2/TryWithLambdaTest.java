@@ -24,7 +24,7 @@ public class TryWithLambdaTest {
     @Test
     public void shouldTry() {
         Person james = new Person("James");
-        Try.with(james, person -> person.someRegularMethod() + " suffix")
+        Try.with(james, person -> person.someExceptionalMethod() + " suffix")
                 .onSuccess(result -> {
                     System.out.println("Completed successfully");
                     System.out.println();

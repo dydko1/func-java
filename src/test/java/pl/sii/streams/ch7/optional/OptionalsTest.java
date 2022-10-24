@@ -9,17 +9,19 @@ import pl.sii.utils.Shop;
 import java.util.Optional;
 
 public class OptionalsTest extends Setup {
-    // optional.of
+    // Optional.of
     @Test
     public void shouldHaveOptionalValue() {
-        Optional<Shop> optionalFirstValue = shops.stream().findFirst();
+        Optional<Shop> someOptional = Optional.of(shops.get(0));
 
-        if (optionalFirstValue.isPresent()) {
-            Shop properValue = optionalFirstValue.get();
+        if (someOptional.isPresent()) {
+            Shop properValue = someOptional.get();
             System.out.println(properValue.getName());
         }
 
-        if (optionalFirstValue.isEmpty()) {
+        Optional<Object> empty = Optional.empty();
+
+        if (empty.isEmpty()) {
             System.out.println("Performing action on empty");
         }
     }
