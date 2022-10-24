@@ -6,6 +6,7 @@ import pl.sii.streams.DataRecord;
 import pl.sii.streams.Setup;
 import pl.sii.streams.Setup2;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -29,8 +30,5 @@ public class GroupingByTest extends Setup2 {
         Set<String> otherGroups = partitionedDataSet.get(false).stream().map(DataRecord::getSubgroup).collect(Collectors.toSet());
         Assert.assertTrue(otherGroups.contains("Male"));
     }
-    // counting()
-    // summing()
-    // maxBy() minBy()
 
 }

@@ -3,6 +3,7 @@ package pl.sii.streams.ch7.optional;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pl.sii.streams.Setup;
+import pl.sii.utils.Item;
 import pl.sii.utils.Shop;
 
 import java.util.Optional;
@@ -22,7 +23,6 @@ public class OptionalsTest extends Setup {
             System.out.println("Performing action on empty");
         }
     }
-
     // findFirst()
     @Test
     public void shouldFindFirst() {
@@ -82,5 +82,25 @@ public class OptionalsTest extends Setup {
                     System.out.println("Running else");
                 });
 
+    }
+    // map()
+    @Test
+    public void shouldMapToAnotherOptional() {
+        Optional<Shop> waldo = shops.stream()
+                .filter(shops -> shops.getName().startsWith("Wal"))
+                .findFirst();
+
+        Optional<Item> item = waldo.flatMap(waldoShop -> waldoShop.getInventory().getItemList().stream().findFirst());
+        item.ifPresent(i -> System.out.println(i.getItemName()));
+    }
+    // or
+    @Test
+    public void shouldSupplyAnotherValue() {
+        Optional<Shop> yShop = shops.stream()
+                .filter(shop -> shop.getName().startsWith("y"))
+                .findAny()
+                .or(() -> shops.stream().filter(shop -> shop.getName().startsWith("Waldo")).findFirst());
+
+        Assert.assertEquals(yShop.get().getName(), "Waldo's Magical Stuff");
     }
 }
